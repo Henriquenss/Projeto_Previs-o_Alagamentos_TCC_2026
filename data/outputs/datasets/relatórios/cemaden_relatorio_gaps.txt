@@ -1,0 +1,162 @@
+=================================================================
+RELATÓRIO DE QUALIDADE — CEMADEN SP
+Gerado em: 16/06/2026 00:18
+=================================================================
+
+── RESUMO ────────────────────────────────────────────────────
+Arquivos processados   : 137
+Linhas brutas totais   : 267,471
+Estações únicas        : 95
+Meses esperados        : 137
+Meses faltando         : 0
+Arquivos com erro      : 0
+
+── COBERTURA TEMPORAL ────────────────────────────────────────
+  ✓ Todos os meses do período estão presentes.
+
+── CATÁLOGO DE ARQUIVOS ──────────────────────────────────────
+  ✓ JAN-2015.csv                        | 2015-01 |   61,177 leituras | 54 estações | fonte: data interna
+  ✓ FEV-2015.csv                        | 2015-02 |   66,581 leituras | 52 estações | fonte: data interna
+  ✓ MAR-2015.csv                        | 2015-03 |  100,724 leituras | 77 estações | fonte: data interna
+  ✓ ABR-2015.csv                        | 2015-04 |   68,547 leituras | 75 estações | fonte: data interna
+  ✓ MAI-2015.csv                        | 2015-05 |   75,336 leituras | 74 estações | fonte: data interna
+  ✓ JUN-2015.csv                        | 2015-06 |   65,255 leituras | 74 estações | fonte: data interna
+  ✓ JUL-2015.csv                        | 2015-07 |   74,759 leituras | 72 estações | fonte: data interna
+  ✓ AGO-2015.csv                        | 2015-08 |   62,544 leituras | 79 estações | fonte: data interna
+  ✓ SET-2015.csv                        | 2015-09 |  107,921 leituras | 89 estações | fonte: data interna
+  ✓ OUT-2015.csv                        | 2015-10 |   90,145 leituras | 87 estações | fonte: data interna
+  ✓ NOV-2015.csv                        | 2015-11 |  127,711 leituras | 86 estações | fonte: data interna
+  ✓ DEZ-2015.csv                        | 2015-12 |  118,160 leituras | 86 estações | fonte: data interna
+  ✓ data (4).csv                        | 2016-01 |  117,370 leituras | 81 estações | fonte: data interna
+  ✓ data (5).csv                        | 2016-02 |  100,945 leituras | 77 estações | fonte: data interna
+  ✓ data (6).csv                        | 2016-03 |   98,293 leituras | 74 estações | fonte: data interna
+  ✓ data (7).csv                        | 2016-04 |   51,609 leituras | 71 estações | fonte: data interna
+  ✓ data (8).csv                        | 2016-05 |   79,293 leituras | 69 estações | fonte: data interna
+  ✓ data (9).csv                        | 2016-06 |   88,761 leituras | 66 estações | fonte: data interna
+  ✓ data (10).csv                       | 2016-07 |   43,226 leituras | 68 estações | fonte: data interna
+  ✓ data (11).csv                       | 2016-08 |   68,701 leituras | 69 estações | fonte: data interna
+  ✓ data (12).csv                       | 2016-09 |   52,846 leituras | 64 estações | fonte: data interna
+  ✓ data (13).csv                       | 2016-10 |   76,946 leituras | 63 estações | fonte: data interna
+  ✓ data (14).csv                       | 2016-11 |   78,407 leituras | 58 estações | fonte: data interna
+  ✓ data (15).csv                       | 2016-12 |   66,593 leituras | 57 estações | fonte: data interna
+  ✓ data (4).csv                        | 2017-01 |   94,344 leituras | 54 estações | fonte: data interna
+  ✓ data (5).csv                        | 2017-02 |   55,290 leituras | 51 estações | fonte: data interna
+  ✓ data (6).csv                        | 2017-03 |   71,466 leituras | 84 estações | fonte: data interna
+  ✓ data (7).csv                        | 2017-04 |   84,665 leituras | 83 estações | fonte: data interna
+  ✓ data (8).csv                        | 2017-05 |   85,020 leituras | 78 estações | fonte: data interna
+  ✓ data (9).csv                        | 2017-06 |   70,944 leituras | 76 estações | fonte: data interna
+  ✓ data (10).csv                       | 2017-07 |   53,143 leituras | 74 estações | fonte: data interna
+  ✓ data (11).csv                       | 2017-08 |   63,732 leituras | 70 estações | fonte: data interna
+  ✓ data (12).csv                       | 2017-09 |   49,653 leituras | 67 estações | fonte: data interna
+  ✓ data (13).csv                       | 2017-10 |   57,636 leituras | 68 estações | fonte: data interna
+  ✓ data (14).csv                       | 2017-11 |   58,729 leituras | 70 estações | fonte: data interna
+  ✓ data (15).csv                       | 2017-12 |   61,669 leituras | 69 estações | fonte: data interna
+  ✓ data (4).csv                        | 2018-01 |   62,527 leituras | 65 estações | fonte: data interna
+  ✓ data (5).csv                        | 2018-02 |   46,167 leituras | 63 estações | fonte: data interna
+  ✓ data (6).csv                        | 2018-03 |   60,350 leituras | 60 estações | fonte: data interna
+  ✓ data (7).csv                        | 2018-04 |   44,507 leituras | 57 estações | fonte: data interna
+  ✓ data (8).csv                        | 2018-05 |   39,696 leituras | 53 estações | fonte: data interna
+  ✓ data (9).csv                        | 2018-06 |   38,283 leituras | 52 estações | fonte: data interna
+  ✓ data (10).csv                       | 2018-07 |   34,934 leituras | 49 estações | fonte: data interna
+  ✓ data (11).csv                       | 2018-08 |   40,500 leituras | 70 estações | fonte: data interna
+  ✓ data (12).csv                       | 2018-09 |   55,339 leituras | 68 estações | fonte: data interna
+  ✓ data (13).csv                       | 2018-10 |   60,870 leituras | 67 estações | fonte: data interna
+  ✓ data (14).csv                       | 2018-11 |   56,786 leituras | 67 estações | fonte: data interna
+  ✓ data (15).csv                       | 2018-12 |   56,005 leituras | 63 estações | fonte: data interna
+  ✓ data (4).csv                        | 2019-01 |   59,884 leituras | 62 estações | fonte: data interna
+  ✓ data (5).csv                        | 2019-02 |   62,419 leituras | 61 estações | fonte: data interna
+  ✓ data (6).csv                        | 2019-03 |   60,583 leituras | 60 estações | fonte: data interna
+  ✓ data (7).csv                        | 2019-04 |   52,848 leituras | 58 estações | fonte: data interna
+  ✓ data (8).csv                        | 2019-05 |   47,469 leituras | 57 estações | fonte: data interna
+  ✓ data (9).csv                        | 2019-06 |   43,529 leituras | 63 estações | fonte: data interna
+  ✓ data (10).csv                       | 2019-07 |   33,749 leituras | 63 estações | fonte: data interna
+  ✓ data (11).csv                       | 2019-08 |   33,740 leituras | 57 estações | fonte: data interna
+  ✓ data (12).csv                       | 2019-09 |   41,234 leituras | 55 estações | fonte: data interna
+  ✓ data (13).csv                       | 2019-10 |   33,394 leituras | 55 estações | fonte: data interna
+  ✓ data (14).csv                       | 2019-11 |   26,630 leituras | 54 estações | fonte: data interna
+  ✓ data (15).csv                       | 2019-12 |   36,034 leituras | 52 estações | fonte: data interna
+  ✓ data (4).csv                        | 2020-01 |   39,562 leituras | 61 estações | fonte: data interna
+  ✓ data (5).csv                        | 2020-02 |   70,056 leituras | 78 estações | fonte: data interna
+  ✓ data (6).csv                        | 2020-03 |   58,876 leituras | 70 estações | fonte: data interna
+  ✓ data (7).csv                        | 2020-04 |   47,229 leituras | 68 estações | fonte: data interna
+  ✓ data (8).csv                        | 2020-05 |   48,151 leituras | 65 estações | fonte: data interna
+  ✓ data (9).csv                        | 2020-06 |   51,774 leituras | 67 estações | fonte: data interna
+  ✓ data (10).csv                       | 2020-07 |   45,161 leituras | 67 estações | fonte: data interna
+  ✓ data (11).csv                       | 2020-08 |   53,260 leituras | 69 estações | fonte: data interna
+  ✓ data (12).csv                       | 2020-09 |   50,006 leituras | 76 estações | fonte: data interna
+  ✓ data (13).csv                       | 2020-10 |   59,813 leituras | 73 estações | fonte: data interna
+  ✓ data (14).csv                       | 2020-11 |   58,544 leituras | 74 estações | fonte: data interna
+  ✓ data (15).csv                       | 2020-12 |   65,232 leituras | 77 estações | fonte: data interna
+  ✓ data (4).csv                        | 2021-01 |   60,163 leituras | 74 estações | fonte: data interna
+  ✓ data (5).csv                        | 2021-02 |   56,688 leituras | 69 estações | fonte: data interna
+  ✓ data (6).csv                        | 2021-03 |   54,377 leituras | 66 estações | fonte: data interna
+  ✓ data (7).csv                        | 2021-04 |   51,640 leituras | 69 estações | fonte: data interna
+  ✓ data (8).csv                        | 2021-05 |   51,957 leituras | 68 estações | fonte: data interna
+  ✓ data (9).csv                        | 2021-06 |   46,110 leituras | 68 estações | fonte: data interna
+  ✓ data (10).csv                       | 2021-07 |   49,015 leituras | 65 estações | fonte: data interna
+  ✓ data (11).csv                       | 2021-08 |   47,883 leituras | 63 estações | fonte: data interna
+  ✓ data (12).csv                       | 2021-09 |   44,955 leituras | 62 estações | fonte: data interna
+  ✓ data (13).csv                       | 2021-10 |   52,374 leituras | 62 estações | fonte: data interna
+  ✓ data (14).csv                       | 2021-11 |   50,531 leituras | 63 estações | fonte: data interna
+  ✓ data (15).csv                       | 2021-12 |   57,333 leituras | 62 estações | fonte: data interna
+  ✓ data (4).csv                        | 2022-01 |   62,761 leituras | 62 estações | fonte: data interna
+  ✓ data (5).csv                        | 2022-02 |   44,683 leituras | 61 estações | fonte: data interna
+  ✓ data (6).csv                        | 2022-03 |   63,092 leituras | 70 estações | fonte: data interna
+  ✓ data (7).csv                        | 2022-04 |   53,620 leituras | 77 estações | fonte: data interna
+  ✓ data (8).csv                        | 2022-05 |   57,792 leituras | 79 estações | fonte: data interna
+  ✓ data (9).csv                        | 2022-06 |   54,018 leituras | 76 estações | fonte: data interna
+  ✓ data (10).csv                       | 2022-07 |   52,355 leituras | 74 estações | fonte: data interna
+  ✓ data (11).csv                       | 2022-08 |   57,727 leituras | 74 estações | fonte: data interna
+  ✓ data (12).csv                       | 2022-09 |   63,835 leituras | 71 estações | fonte: data interna
+  ✓ data (13).csv                       | 2022-10 |   53,440 leituras | 70 estações | fonte: data interna
+  ✓ data (14).csv                       | 2022-11 |   56,622 leituras | 66 estações | fonte: data interna
+  ✓ data (15).csv                       | 2022-12 |   58,281 leituras | 65 estações | fonte: data interna
+  ✓ data (4).csv                        | 2023-01 |   54,533 leituras | 66 estações | fonte: data interna
+  ✓ data (5).csv                        | 2023-02 |   60,790 leituras | 75 estações | fonte: data interna
+  ✓ data (6).csv                        | 2023-03 |   58,063 leituras | 70 estações | fonte: data interna
+  ✓ data (7).csv                        | 2023-04 |   53,554 leituras | 73 estações | fonte: data interna
+  ✓ data (8).csv                        | 2023-05 |   54,117 leituras | 73 estações | fonte: data interna
+  ✓ data (9).csv                        | 2023-06 |   50,857 leituras | 72 estações | fonte: data interna
+  ✓ data (10).csv                       | 2023-07 |   40,986 leituras | 70 estações | fonte: data interna
+  ✓ data (11).csv                       | 2023-08 |   46,375 leituras | 68 estações | fonte: data interna
+  ✓ data (12).csv                       | 2023-09 |   47,133 leituras | 67 estações | fonte: data interna
+  ✓ data (13).csv                       | 2023-10 |   60,170 leituras | 67 estações | fonte: data interna
+  ✓ data (14).csv                       | 2023-11 |   51,970 leituras | 64 estações | fonte: data interna
+  ✓ data (15).csv                       | 2023-12 |   46,257 leituras | 64 estações | fonte: data interna
+  ✓ data (4).csv                        | 2024-01 |   58,321 leituras | 61 estações | fonte: data interna
+  ✓ data (5).csv                        | 2024-02 |   44,404 leituras | 63 estações | fonte: data interna
+  ✓ data (6).csv                        | 2024-03 |   43,541 leituras | 62 estações | fonte: data interna
+  ✓ data (7).csv                        | 2024-04 |   45,300 leituras | 73 estações | fonte: data interna
+  ✓ data (8).csv                        | 2024-05 |   59,396 leituras | 76 estações | fonte: data interna
+  ✓ data (9).csv                        | 2024-06 |   49,620 leituras | 76 estações | fonte: data interna
+  ✓ data (10).csv                       | 2024-07 |   58,450 leituras | 74 estações | fonte: data interna
+  ✓ data (11).csv                       | 2024-08 |   55,693 leituras | 74 estações | fonte: data interna
+  ✓ data (12).csv                       | 2024-09 |   53,242 leituras | 74 estações | fonte: data interna
+  ✓ data (13).csv                       | 2024-10 |   63,536 leituras | 72 estações | fonte: data interna
+  ✓ data (14).csv                       | 2024-11 |   64,640 leituras | 72 estações | fonte: data interna
+  ✓ data (15).csv                       | 2024-12 |   71,779 leituras | 73 estações | fonte: data interna
+  ✓ data (4).csv                        | 2025-01 |   66,211 leituras | 73 estações | fonte: data interna
+  ✓ data (5).csv                        | 2025-02 |   65,168 leituras | 73 estações | fonte: data interna
+  ✓ data (6).csv                        | 2025-03 |   59,922 leituras | 73 estações | fonte: data interna
+  ✓ data (7).csv                        | 2025-04 |   64,958 leituras | 73 estações | fonte: data interna
+  ✓ data (8).csv                        | 2025-05 |   51,474 leituras | 73 estações | fonte: data interna
+  ✓ data (9).csv                        | 2025-06 |   52,498 leituras | 69 estações | fonte: data interna
+  ✓ data (10).csv                       | 2025-07 |   47,159 leituras | 70 estações | fonte: data interna
+  ✓ data (11).csv                       | 2025-08 |   47,856 leituras | 67 estações | fonte: data interna
+  ✓ data (12).csv                       | 2025-09 |   47,424 leituras | 69 estações | fonte: data interna
+  ✓ data (13).csv                       | 2025-10 |   55,868 leituras | 67 estações | fonte: data interna
+  ✓ data (14).csv                       | 2025-11 |   49,631 leituras | 68 estações | fonte: data interna
+  ✓ data (15).csv                       | 2025-12 |   58,260 leituras | 67 estações | fonte: data interna
+  ✓ data (4).csv                        | 2026-01 |   61,193 leituras | 66 estações | fonte: data interna
+  ✓ data (5).csv                        | 2026-02 |   53,655 leituras | 65 estações | fonte: data interna
+  ✓ data (6).csv                        | 2026-03 |   54,630 leituras | 65 estações | fonte: data interna
+  ✓ data (7).csv                        | 2026-04 |   45,720 leituras | 64 estações | fonte: data interna
+  ✓ data (8).csv                        | 2026-05 |   50,405 leituras | 65 estações | fonte: data interna
+
+── QUALIDADE DA SÉRIE DIÁRIA SP ──────────────────────────────
+  Dias com dados : 4166
+  Dias sem dados : 0
+  Média diária   : 3.44 mm
+  Máximo diário  : 1117.7 mm
+
+=================================================================
