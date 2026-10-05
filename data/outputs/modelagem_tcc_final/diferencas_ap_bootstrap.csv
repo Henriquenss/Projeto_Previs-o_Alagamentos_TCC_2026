@@ -1,0 +1,8 @@
+﻿escala,comparacao,dif_AP,IC95_inf,IC95_sup,IC_inclui_zero
+municipal,Random Forest − Regressão logística,0.0424499539308576,-0.01568170437858415,0.10307759792965303,True
+municipal,Random Forest − XGBoost,0.02512750996120272,-0.012107280679298556,0.0561631039005076,True
+municipal,Random Forest − Persistência,0.14317573443742365,0.08744450241785708,0.20949705969148888,False
+municipal,Random Forest − Climatologia (mês),0.0746115936203331,-0.01650785089559347,0.14757607235997947,True
+regional,Ensemble (soft voting) − Regressão logística,-0.00031008350927075323,-0.01582326803397586,0.011978405385128494,True
+regional,Ensemble (soft voting) − Climatologia (subpref. + mês),0.017409250183672134,-0.002837739167446482,0.038662043332509555,True
+regional,Ensemble (soft voting) − Persistência,0.08584485597280918,0.06172132411778332,0.11193439912992123,False

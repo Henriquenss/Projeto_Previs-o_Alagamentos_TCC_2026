@@ -1,0 +1,33 @@
+neighbor,codigo_subprefeitura,nome_subprefeitura,regra
+Aricanduva/ Vila Formosa,26,ARICANDUVA-FORMOSA-CARRAO,alias_explicito
+Butantã,10,BUTANTA,normalizacao_grafica
+Campo Limpo,17,CAMPO LIMPO,normalizacao_grafica
+Capela do Socorro,19,CAPELA DO SOCORRO,normalizacao_grafica
+Casa Verde,04,CASA VERDE-LIMAO-CACHOEIRINHA,alias_explicito
+Cidade Ademar,16,CIDADE ADEMAR,normalizacao_grafica
+Cidade Tiradentes,31,CIDADE TIRADENTES,normalizacao_grafica
+Ermelino Matarazzo,22,ERMELINO MATARAZZO,normalizacao_grafica
+Freguesia do Ó,03,FREGUESIA-BRASILANDIA,alias_explicito
+Guaianases,28,GUAIANASES,normalizacao_grafica
+Ipiranga,13,IPIRANGA,normalizacao_grafica
+Itaim Paulista,24,ITAIM PAULISTA,normalizacao_grafica
+Itaquera,27,ITAQUERA,normalizacao_grafica
+Jabaquara,15,JABAQUARA,normalizacao_grafica
+Jaçanã/ Tremembé,06,JACANA-TREMEMBE,normalizacao_grafica
+Lapa,08,LAPA,normalizacao_grafica
+M'Boi Mirim,18,M BOI MIRIM,normalizacao_grafica
+Mooca,25,MOOCA,normalizacao_grafica
+Parelheiros,20,PARELHEIROS,normalizacao_grafica
+Penha,21,PENHA,normalizacao_grafica
+Perus,01,PERUS-ANHANGUERA,alias_explicito
+Pinheiros,11,PINHEIROS,normalizacao_grafica
+Pirituba/Jaraguá,02,PIRITUBA-JARAGUA,normalizacao_grafica
+Santana,05,SANTANA-TUCURUVI,alias_explicito
+Santo Amaro,14,SANTO AMARO,normalizacao_grafica
+Sapopemba,32,SAPOPEMBA,normalizacao_grafica
+São Mateus,30,SAO MATEUS,normalizacao_grafica
+São Miguel Paulista,23,SAO MIGUEL,alias_explicito
+Sé,09,SE,normalizacao_grafica
+Vila Maria/ Vila Guilherme,07,VILA MARIA-VILA GUILHERME,normalizacao_grafica
+Vila Mariana,12,VILA MARIANA,normalizacao_grafica
+Vila Prudente,29,VILA PRUDENTE,normalizacao_grafica

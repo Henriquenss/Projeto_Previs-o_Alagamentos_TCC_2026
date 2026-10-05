@@ -30,6 +30,7 @@ import pandas as pd
 import numpy as np
 from math import radians, cos, sin, asin, sqrt
 from datetime import date
+from pathlib import Path
 from dateutil.relativedelta import relativedelta
 
 warnings.filterwarnings("ignore")
@@ -37,8 +38,10 @@ warnings.filterwarnings("ignore")
 # ── Configurações ──────────────────────────────────────────────────────────
 
 # Raiz onde estão as subpastas (2015/, 2016/, etc.) com os CSVs
-CEMADEN_ROOT = os.path.join("data", "outputs", "cemaden_raw")
-OUTPUT_PATH = os.path.join("data", "outputs", "datasets")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+CEMADEN_ROOT = str(PROJECT_ROOT / "data/outputs/cemaden_raw")
+OUTPUT_PATH = str(PROJECT_ROOT / "data/outputs/datasets")
+EXCLUSIONS_PATH = Path(__file__).with_name("cemaden_exclusoes.csv")
 
 START_PERIOD = (2015, 1)   # (ano, mês) início esperado
 END_PERIOD   = (2026, 5)   # (ano, mês) fim esperado
@@ -215,7 +218,7 @@ def aggregate_daily(df: pd.DataFrame) -> pd.DataFrame:
 
     agg = df.groupby(group_cols, dropna=False).agg(
         precip_total_mm   = ("valor_mm", "sum"),
-        precip_max_hor_mm = ("valor_mm", "max"),   # máximo horário
+        precip_max_hor_mm = ("valor_mm", "max"),   # legado: máximo por leitura, NÃO por hora
         n_leituras        = ("valor_mm", "count"),
     ).reset_index()
 
@@ -228,6 +231,16 @@ def aggregate_daily(df: pd.DataFrame) -> pd.DataFrame:
         agg  = pd.merge(agg, meta, on="cod_estacao", how="left")
 
     return agg
+
+
+def exclude_station_days(df_daily, exclusions):
+    """Retira estação-dia inteira; preserva outras estações e não imputa zero."""
+    marked = df_daily.merge(
+        exclusions, on=["cod_estacao", "date"], how="left", validate="many_to_one"
+    )
+    excluded = marked[marked["motivo"].notna()].copy()
+    kept = marked[marked["motivo"].isna()][df_daily.columns].copy()
+    return kept, excluded
 
 
 def build_sp_series(df_daily: pd.DataFrame) -> pd.DataFrame:
@@ -287,6 +300,8 @@ def main():
     print("CEMADEN — Consolidação e Validação de Dados")
     print("=" * 65)
 
+    Path(OUTPUT_REPORT).parent.mkdir(parents=True, exist_ok=True)
+    exclusions = pd.read_csv(EXCLUSIONS_PATH, parse_dates=["date"])
     # 1. Descobrir todos os CSVs recursivamente
     pattern = os.path.join(CEMADEN_ROOT, "**", "*.csv")
     files   = sorted(glob.glob(pattern, recursive=True))
@@ -350,6 +365,7 @@ def main():
         print("  Arquivos com erro:")
         for fname, msg in errors:
             print(f"    ✗ {fname}: {msg}")
+        raise RuntimeError("Falha em arquivos brutos; saídas não foram substituídas.")
 
     # 3. Validar gaps
     print("\n[3/5] Validando cobertura temporal...")
@@ -357,7 +373,6 @@ def main():
     expected   = all_months_in_range(START_PERIOD, END_PERIOD)
     found      = set((r["ano"], r["mes"]) for r in catalog if r["ano"] is not None)
     missing    = sorted(set(expected) - found)
-    duplicated = [m for m in expected if list(found).count(m) > 1 if m in found]
 
     cat_df = pd.DataFrame(catalog).sort_values(["ano", "mes"])
 
@@ -388,6 +403,8 @@ def main():
     df_all_daily = (df_all_daily
                     .sort_values(group_cols)
                     .drop_duplicates(subset=group_cols, keep="last"))
+    df_all_daily, excluded = exclude_station_days(df_all_daily, exclusions)
+    excluded.to_csv(Path(OUTPUT_REPORT).with_name("cemaden_estacoes_dias_excluidos.csv"), index=False)
     print(f"  Após deduplicação                           : {len(df_all_daily):,}")
 
     # Salvar metadados das estações
@@ -409,7 +426,7 @@ def main():
     # Preencher range completo
     all_days = pd.DataFrame({"date": pd.date_range(
         f"{START_PERIOD[0]}-{START_PERIOD[1]:02d}-01",
-        f"{END_PERIOD[0]}-{END_PERIOD[1]:02d}-28"
+        pd.Timestamp(END_PERIOD[0], END_PERIOD[1], 1) + pd.offsets.MonthEnd(0)
     )})
     df_sp = pd.merge(all_days, df_sp, on="date", how="left")
 
@@ -456,11 +473,15 @@ def _write_report(catalog: pd.DataFrame, missing: list,
         "",
         "── RESUMO ────────────────────────────────────────────────────",
         f"Arquivos processados   : {len(catalog)}",
-        f"Linhas brutas totais   : {df_daily['precip_total_mm'].count():,}",
+        f"Leituras brutas válidas: {int(catalog['linhas'].sum()):,}",
+        f"Registros estação-dia após exclusões: {len(df_daily):,}",
         f"Estações únicas        : {df_daily['cod_estacao'].nunique() if 'cod_estacao' in df_daily.columns else '?'}",
         f"Meses esperados        : {len(list(all_months_in_range(START_PERIOD, END_PERIOD)))}",
         f"Meses faltando         : {len(missing)}",
         f"Arquivos com erro      : {len(errors)}",
+        "Exclusões estação-dia: cemaden_estacoes_dias_excluidos.csv",
+        "cemaden_intensity_max_hor: nome legado; máximo por leitura, não intensidade horária.",
+        "Fuso: hipótese histórica de horário local mantida; origem dos timestamps requer validação.",
         "",
     ]
 

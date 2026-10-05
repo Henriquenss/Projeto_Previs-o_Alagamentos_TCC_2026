@@ -1,15 +1,19 @@
 =================================================================
 RELATÓRIO DE QUALIDADE — CEMADEN SP
-Gerado em: 16/06/2026 00:18
+Gerado em: 16/09/2026 00:45
 =================================================================
 
 ── RESUMO ────────────────────────────────────────────────────
 Arquivos processados   : 137
-Linhas brutas totais   : 267,471
+Leituras brutas válidas: 8,049,293
+Registros estação-dia após exclusões: 267,469
 Estações únicas        : 95
 Meses esperados        : 137
 Meses faltando         : 0
 Arquivos com erro      : 0
+Exclusões estação-dia: cemaden_estacoes_dias_excluidos.csv
+cemaden_intensity_max_hor: nome legado; máximo por leitura, não intensidade horária.
+Fuso: hipótese histórica de horário local mantida; origem dos timestamps requer validação.
 
 ── COBERTURA TEMPORAL ────────────────────────────────────────
   ✓ Todos os meses do período estão presentes.
@@ -154,9 +158,9 @@ Arquivos com erro      : 0
   ✓ data (8).csv                        | 2026-05 |   50,405 leituras | 65 estações | fonte: data interna
 
 ── QUALIDADE DA SÉRIE DIÁRIA SP ──────────────────────────────
-  Dias com dados : 4166
+  Dias com dados : 4169
   Dias sem dados : 0
-  Média diária   : 3.44 mm
-  Máximo diário  : 1117.7 mm
+  Média diária   : 3.15 mm
+  Máximo diário  : 79.3 mm
 
 =================================================================

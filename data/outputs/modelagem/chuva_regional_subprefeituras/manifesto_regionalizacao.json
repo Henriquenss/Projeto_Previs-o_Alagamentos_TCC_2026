@@ -1,0 +1,45 @@
+{
+  "origem": {
+    "arquivo_exclusoes": "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\scripts\\etl\\cemaden_exclusoes.csv",
+    "hash_exclusoes": "12221e609c5ed2b8201293b0138be5d478a463444534810a4ddd76517252c87f",
+    "proveniencia": "séries horárias/10min originais agregadas por estação-dia",
+    "arquivos_raw_lidos": 137,
+    "etapa_tempo_original": "timezone conforme função aggregate_daily do ETL legado; auditar UTC x horário local",
+    "exclusoes_configuradas": 2,
+    "exclusoes_presentes_na_entrada": 2,
+    "exclusoes_ja_ausentes": 0,
+    "registros_estacao_dia_finais": 267469,
+    "estacoes_distintas": 95,
+    "extremos_acima_500mm_para_revisar": 3,
+    "estacao_dias_possivelmente_parciais_sem_exclusao": 122714,
+    "arquivo_intermediario_gerado": "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\outputs\\datasets\\cemaden_estacao_dia.csv",
+    "hash_estacao_dia": "ee44e1ef9264e37c472dc0404cf76083939579deb13e276cfa489be582b20581",
+    "auditoria_reproducao_municipal": {
+      "comparacao_disponivel": true,
+      "n_datas_comparaveis": 4169,
+      "n_datas_com_delta_absoluto_maior_001mm": 0,
+      "maior_delta_absoluto_mm": 2.8848035071860068e-12
+    }
+  },
+  "parametros_interpolacao": {
+    "CRS": "EPSG:31983",
+    "ponto": "representative_point da subprefeitura",
+    "raio_km": 30.0,
+    "k_proximas": 5,
+    "min_estacoes": 2,
+    "potencia_idw": 2.0,
+    "distancia_minima_km": 0.25
+  },
+  "cobertura_local_pct_min": 99.59222835212282,
+  "cobertura_local_pct_max": 99.90405372991125,
+  "regioes_com_menos_5_positivos_teste": 6,
+  "experimento_escolhido_validacao": "Municipal + local + região",
+  "divisao": {
+    "treino": 81594,
+    "validacao": 23328,
+    "teste": 28224,
+    "prevalencia_teste": 0.030009920634920636,
+    "limiar_escolhido_validacao": 0.12
+  },
+  "interpretacao": "Registro CGE, não ausência física confirmada; vegetação 2017/drenagem 2026 ex post; chuva local observada em t, não previsão de chuva t+1."
+}

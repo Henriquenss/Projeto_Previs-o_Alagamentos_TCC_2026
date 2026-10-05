@@ -1,0 +1,10 @@
+﻿fonte,arquivo,tamanho_MB,disponivel
+municipal,data\outputs\datasets\dataset_final_integrado.csv,0.94,True
+inmet,data\outputs\datasets\consolidated_dataset.csv,1.1,True
+estacao_dia,data\outputs\datasets\cemaden_estacao_dia.csv,17.86,True
+estacoes,data\outputs\datasets\cemaden_estacoes.csv,0.01,True
+cge_regional,data\outputs\geosampa\cge_subprefeitura_dia.csv,3.34,True
+urbanos,data\outputs\geosampa\indicadores_subprefeituras.csv,0.01,True
+limites,data\outputs\geosampa\subprefeituras_tratadas.gpkg,1.47,True
+reanálise,data\outputs\datasets\open_meteo_sp.csv,0.76,True
+previsoes_arquivadas,data\outputs\datasets\open_meteo_previous_runs_sp.csv,0.18,True

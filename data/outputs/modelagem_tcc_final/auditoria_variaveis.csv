@@ -1,0 +1,26 @@
+﻿escala,variavel,fonte,justificativa_temporal,uso,faltantes_pct,primeira_data,ultima_data
+municipal,cemaden_municipal_qc_mm,CEMADEN estação-dia,Chuva observada até t,manter,1.61,2015-01-01,2026-05-30
+municipal,cemaden_municipal_acc3d,CEMADEN estação-dia,Chuva observada de t-2 até t,manter,2.88,2015-01-03,2026-05-30
+municipal,cemaden_municipal_acc7d,CEMADEN estação-dia,Chuva observada de t-6 até t,manter,4.87,2015-01-07,2026-05-30
+municipal,sp_precip_mm,INMET,Chuva municipal observada em t,manter,0.0,2015-01-01,2026-05-30
+municipal,sp_temp_mean,INMET,Temperatura municipal observada em t,manter,0.0,2015-01-01,2026-05-30
+municipal,sp_umid_mean,INMET,Umidade relativa observada em t,manter,0.0,2015-01-01,2026-05-30
+municipal,sp_vento_mean,INMET,Vento observado em t,manter,0.0,2015-01-01,2026-05-30
+municipal,sp_pressao_mean,INMET,Pressão observada em t,manter,0.0,2015-01-01,2026-05-30
+municipal,mes_sin,Calendário,Sazonalidade conhecida antes de t+1,manter,0.0,2015-01-01,2026-05-30
+municipal,mes_cos,Calendário,Sazonalidade conhecida antes de t+1,manter,0.0,2015-01-01,2026-05-30
+regional,cemaden_local_idw_mm,CEMADEN estação-dia + limites GeoSampa,Chuva regional interpolada em t,manter,0.0,2015-01-01,2026-05-30
+regional,cemaden_local_acc3d,CEMADEN estação-dia + GeoSampa,Chuva regional de t-2 até t,manter,1.65,2015-01-03,2026-05-30
+regional,cemaden_local_acc7d,CEMADEN estação-dia + GeoSampa,Chuva regional de t-6 até t,manter,3.91,2015-01-07,2026-05-30
+regional,cemaden_municipal_qc_mm,CEMADEN estação-dia,Chuva observada até t,manter,0.0,2015-01-01,2026-05-30
+regional,sp_precip_mm,INMET,Chuva municipal observada em t,manter,0.0,2015-01-01,2026-05-30
+regional,sp_temp_mean,INMET,Temperatura municipal observada em t,manter,0.0,2015-01-01,2026-05-30
+regional,sp_umid_mean,INMET,Umidade relativa observada em t,manter,0.0,2015-01-01,2026-05-30
+regional,sp_vento_mean,INMET,Vento observado em t,manter,0.0,2015-01-01,2026-05-30
+regional,sp_pressao_mean,INMET,Pressão observada em t,manter,0.0,2015-01-01,2026-05-30
+regional,mes_sin,Calendário,Sazonalidade conhecida antes de t+1,manter,0.0,2015-01-01,2026-05-30
+regional,mes_cos,Calendário,Sazonalidade conhecida antes de t+1,manter,0.0,2015-01-01,2026-05-30
+regional,codigo_subprefeitura,GeoSampa,Identificação regional fixa,manter regional,0.0,2015-01-01,2026-05-30
+regional,pct_area_mapeada_vegetacao,GeoSampa 2017,Levantamento não disponível em todo o histórico,descritivo,0.0,2015-01-01,2026-05-30
+regional,densidade_rede_km_por_km2,GeoSampa agosto/2026,Cadastro posterior ao período-alvo,descritivo,0.0,2015-01-01,2026-05-30
+regional,area_km2,GeoSampa limites 2026,Limites administrativos atuais,descritivo,0.0,2015-01-01,2026-05-30

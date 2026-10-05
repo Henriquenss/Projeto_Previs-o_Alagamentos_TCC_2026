@@ -1,0 +1,203 @@
+{
+  "subprefeituras": {
+    "registros": 32,
+    "geometrias_reparadas": 1,
+    "sobreposicao_m2": 7.346804141998291
+  },
+  "SIRGAS_SHP_vegetacao_pmd_ARICANDUVA-FORMOSA-CARRAO.zip": {
+    "registros": 4039,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_BUTANTA.zip": {
+    "registros": 20928,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_CAMPO_LIMPO.zip": {
+    "registros": 12665,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_CAPELA_DO_SOCORRO.zip": {
+    "registros": 12260,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_CASA_VERDE-CACHOEIRINHA.zip": {
+    "registros": 4875,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_CIDADE_ADEMAR.zip": {
+    "registros": 5648,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_CIDADE_TIRADENTES.zip": {
+    "registros": 1964,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_ERMELINO_MATARAZZO.zip": {
+    "registros": 2774,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_FREGUESIA-BRASILANDIA.zip": {
+    "registros": 5209,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_GUAIANASES.zip": {
+    "registros": 3510,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_IPIRANGA.zip": {
+    "registros": 13657,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_ITAIM_PAULISTA.zip": {
+    "registros": 4519,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_ITAQUERA.zip": {
+    "registros": 8454,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_JABAQUARA.zip": {
+    "registros": 4228,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_JACANA-TREMEMBE.zip": {
+    "registros": 6508,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_LAPA.zip": {
+    "registros": 17132,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_M'BOI_MIRIM.zip": {
+    "registros": 7737,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_MOOCA.zip": {
+    "registros": 12248,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_PARELHEIROS.zip": {
+    "registros": 12998,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_PENHA.zip": {
+    "registros": 7850,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_PERUS.zip": {
+    "registros": 5832,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_PINHEIROS.zip": {
+    "registros": 16472,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_PIRITUBA-JARAGUA.zip": {
+    "registros": 15470,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SANTANA-TUCURUVI.zip": {
+    "registros": 6885,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SANTO_AMARO.zip": {
+    "registros": 15035,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SAO_MATEUS.zip": {
+    "registros": 5940,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SAO_MIGUEL.zip": {
+    "registros": 4476,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SAPOPEMBA.zip": {
+    "registros": 2226,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_SE.zip": {
+    "registros": 11342,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_VILA_MARIA-VILA_GUILHERME.zip": {
+    "registros": 4426,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_VILA_MARIANA.zip": {
+    "registros": 14969,
+    "geometrias_reparadas": 0
+  },
+  "SIRGAS_SHP_vegetacao_pmd_VILA_PRUDENTE.zip": {
+    "registros": 4092,
+    "geometrias_reparadas": 0
+  },
+  "drenagem": {
+    "registros": 28366,
+    "geometrias_reparadas": 0,
+    "datas_atualizacao": [
+      "2026-08-19 03:00:00+00:00"
+    ],
+    "soma_comprimento_regioes_km": 5045.917677812256,
+    "comprimento_uniao_municipal_km": 5042.399755746038,
+    "nota_fronteiras": "Trecho coincidente com fronteira pode participar das duas regiões; não somar para obter total municipal."
+  },
+  "cge": {
+    "linhas": 12535,
+    "duplicatas_excedentes_preservadas": 749,
+    "rotulos_mapeados": 32,
+    "linhas_painel": 133408,
+    "registros_antes": 9397,
+    "registros_depois": 9397
+  },
+  "manifesto": {
+    "execucao_utc": "2026-09-27T22:09:44.127749+00:00",
+    "epsg": 31983,
+    "hashes_entrada_sha256": {
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\geoportal_subprefeitura_v2.gpkg": "7789b8db470945858d0b305348353ad1c47aaec7a2fbb919d24310bc75f1c4e4",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\geoportal_drenagem.gpkg": "bb19bd8b69be77dd9dfb19839c08be237787fe9f09c94f850bae4b171435c530",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\outputs\\datasets\\final_data.csv": "c2c8adf5a8f71727c03f2faf294e4cbd12883a26a77acc2bc472536fad4b913a",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_ARICANDUVA-FORMOSA-CARRAO.zip": "0becda16b95bd975154ef70f5809b1f16849c48b426f28b83a8c132cf76a3ead",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_BUTANTA.zip": "234744206307003134988ffbf0bfe53bfa7686b7baf4e7db15e6597e302bcb40",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_CAMPO_LIMPO.zip": "6af23a5836818a326edcaa65c145596d3c5040da38fd6869abcc0c3ec590f076",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_CAPELA_DO_SOCORRO.zip": "290eb5c554372edeb71541b57d19337e205e79f6adda14f014db8c4ff14cb146",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_CASA_VERDE-CACHOEIRINHA.zip": "d72e7c0bb538d7e0198fded0c57818f61f45b773d7146868a416967338a58133",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_CIDADE_ADEMAR.zip": "2d0e70e1bc9c8439b1801a38e98ce02250bb94a0664e7cef8dd59bd6a2cbbbd9",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_CIDADE_TIRADENTES.zip": "6a3407087e11b69e163ad18ea987084f2431f2ae396ce3577a5f50a7959e2b23",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_ERMELINO_MATARAZZO.zip": "5b813ffa6c13b3b0feb4385004dffd997937a33d662b16720dc44390343a32fb",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_FREGUESIA-BRASILANDIA.zip": "55966458c37a877181b7a4b17d82b5037fab223db0b7a83578ea0ef45583b68a",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_GUAIANASES.zip": "d59f6f4b4e337a73b3aa59503037803921ac1d28f86b47d167a6bbb24a80a107",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_IPIRANGA.zip": "18c17fcb477cbfbe77c8861d48d53299d3ebe3d8fcf71ef17163fbd99f963867",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_ITAIM_PAULISTA.zip": "421d92cb65b916c9fcda3aaa41dea3c29f52edb4bd4c52dd46e1fef5071d3c90",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_ITAQUERA.zip": "369b0afdf53eb72a04264123137857d03514fdc90482a58d7662ed259c83ddee",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_JABAQUARA.zip": "29676752359e2d9f6974eed43f1032a4c8bd080da740db77007150816e6a705f",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_JACANA-TREMEMBE.zip": "03e1280d33182240228cb8a27d7423bbb691e6e6b09f5ff6115c4296608340dd",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_LAPA.zip": "364a5124feeac46e320717aaf7684f270ca631a1bfa51abbbc127cd88ad270c7",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_M'BOI_MIRIM.zip": "667a185e853f7421c0bd12934a1b32040bf4a28017b7a051f6c0b0a04f77bde6",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_MOOCA.zip": "53e46b1d86be210d1eec11e31c57f66e65fbf9dd62203591fb9e5d24e8fe544c",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_PARELHEIROS.zip": "7dbf5bce2c1a84722b4b7cd0f61239ea8e8c22854580cf4aeb2f7131558b689d",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_PENHA.zip": "480ae9d60b9f2348916beea8a74c5857e2fc4477a59ffc29fd28592108f28352",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_PERUS.zip": "3253efd9508e04aa097b8ad7bccbbf2aff15fc2143f2177e3a5deceebb0126dc",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_PINHEIROS.zip": "8a5af88b3351a2c6874b420a82c161253d294f6c02c81b2e38721a3afd642695",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_PIRITUBA-JARAGUA.zip": "63c3216c2173378a211a70e60890b3cce7ef7c493914b2526e9e57d19fd17e53",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SANTANA-TUCURUVI.zip": "a0c5aa17a580013da10c09be69b7f1d84122d759b4892e6a4df677a404f27943",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SANTO_AMARO.zip": "dd9e6365cdf88efd4cefd03cfa5f4e7a35e1e6a52e235554a416f18c957a7e30",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SAO_MATEUS.zip": "625cee41f896e641c378291dd7ed4d847caa0e583db4a4dd9e7da328e17764f3",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SAO_MIGUEL.zip": "5ed00739fc54207f50591a1b1b03635d64b119f91184a93ae2e73a7242afb111",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SAPOPEMBA.zip": "966b1687ae45117f2dcc613e621935451c7e2538120f06eae62a779acf701cff",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_SE.zip": "be0de9c9e3f9ee8a1598d7540c8fe5dff3c104204bd53401ab5f7cd99264d613",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_VILA_MARIA-VILA_GUILHERME.zip": "8d8f97fb90152499f024d34832f2ef842f317a1fab30940454050fbe04d01360",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_VILA_MARIANA.zip": "f46d605e4b6d9ac151a7494d96a363b2050995bbacc96db21cbde039b65d60f7",
+      "C:\\Users\\rickn\\OneDrive\\Documentos\\GitHub\\Projeto_Previsão_Alagamentos_TCC_2026\\data\\input\\geosampa\\SIRGAS_SHP_vegetacao_pmd_VILA_PRUDENTE.zip": "e9fe368b5052384e1d58bfa89b55e932d2fb64c787f7d1fb764fda1e7315232a"
+    },
+    "versoes": {
+      "pandas": "3.0.1",
+      "geopandas": "1.1.4",
+      "shapely": "2.1.2",
+      "pyogrio": "0.13.0",
+      "pyproj": "3.8.0"
+    },
+    "restricao": "Não houve join dos snapshots urbanos ao histórico diário: disponibilidade histórica não comprovada.",
+    "hash_script": "45e7b62cc66bb98211e9ab0186041d3931bd41cddbdc24329652b05fa1c58010"
+  }
+}

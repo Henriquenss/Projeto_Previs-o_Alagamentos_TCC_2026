@@ -1,0 +1,4 @@
+﻿comparacao,AP_base_validacao,AP_expandido_validacao,delta_AP_validacao
+Adicionar atributos urbanos sem identificar região,0.09071353849858897,0.1625208386384347,0.07180730013984572
+Adicionar identidade regional ao clima,0.09071353849858897,0.17508459450808078,0.08437105600949181
+Adicionar urbanos além da identidade regional,0.17508459450808078,0.16429847872473735,-0.01078611578334343

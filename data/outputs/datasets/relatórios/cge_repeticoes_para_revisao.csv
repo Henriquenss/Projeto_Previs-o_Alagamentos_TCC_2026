@@ -1,0 +1,621 @@
+date,current_zone,neighbor,status,way,repeticoes
+01-01-2016,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+01-01-2019,Zona Leste,Itaim Paulista,Inativo Intransitável,RUA MANUEL BARBALHO DE LIMA,2
+01-01-2019,Zona Leste,Itaquera,Inativo Transitável,AV. JACU PESSEGO N TRABALHADORES,3
+01-02-2017,Zona Leste,Itaquera,Inativo Intransitável,AV ITAQUERA,2
+01-02-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+01-02-2017,Zona Norte,Casa Verde,Inativo Intransitável,AV ANTONIO MUNHOZ BONILHA,2
+01-02-2020,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,3
+01-02-2020,Zona Sul,Cidade Ademar,Inativo Intransitável,AV. INTERLAGOS,2
+01-02-2021,Zona Oeste,Butantã,Inativo Transitável,PC. ROBERTO GOMES PEDROSA,2
+01-02-2022,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+01-02-2025,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,4
+01-02-2025,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+01-02-2026,Zona Norte,Casa Verde,Inativo Transitável,AV NSRA DO O,2
+01-02-2026,Zona Sudeste,Vila Mariana,Inativo Intransitável,PC JUCA MULATO,2
+01-02-2026,Zona Sul,Campo Limpo,Inativo Intransitável,AV CARLOS CALDEIRA FILHO,2
+01-03-2016,Zona Leste,Itaquera,Inativo Transitável,AV JACU-PESSEGO N TRABALHADORES,2
+01-03-2022,Zona Sudeste,Ipiranga,Inativo Intransitável,AV TERESA CRISTINA,2
+01-03-2022,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV VINTE E TRES DE MAIO,2
+01-06-2016,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+01-06-2016,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,2
+01-07-2016,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,PC NSRA.DAS VITORIAS,2
+01-10-2018,Zona Norte,Pirituba/Jaraguá,Inativo Transitável,AV. RAIMUNDO PEREIRA DE MAGALHAES,3
+01-10-2023,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+01-11-2015,Centro,Sé,Inativo Transitável,AV PRES CASTELO BRANCO,2
+01-11-2015,Centro,Sé,Inativo Transitável,MARGINAL TIETE,2
+01-11-2015,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+01-11-2021,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,2
+01-12-2018,Centro,Sé,Inativo Intransitável,MARGINAL TIETE,2
+01-12-2018,Zona Leste,Mooca,Inativo Intransitável,MARGINAL TIETE,2
+01-12-2018,Zona Norte,Casa Verde,Inativo Intransitável,MARGINAL TIETE,2
+01-12-2018,Zona Norte,Santana,Inativo Intransitável,MARGINAL TIETE,2
+01-12-2018,Zona Oeste,Lapa,Inativo Transitável,AV. MOFARREJ,2
+01-12-2018,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS. NACOES UNIDAS,2
+02-01-2016,Zona Leste,Itaquera,Inativo Intransitável,AV JOSE PINHEIRO BORGES,2
+02-01-2017,Zona Sudeste,Ipiranga,Inativo Transitável,AV PROF ABRAAO DE MORAIS,2
+02-01-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+02-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),2
+02-01-2022,Centro,Sé,Inativo Intransitável,AV9 DE JULHO,2
+02-01-2025,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO DE ANAHIA MELLO,2
+02-02-2015,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+02-02-2020,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,3
+02-02-2021,Centro,Sé,Inativo Transitável,AV. RIO BRANCO (REPUBLICA),2
+02-02-2022,Zona Sul,Parelheiros,Inativo Transitável,ES ECOTURISTICA DE PARELHEIROS,2
+02-03-2016,Centro,Sé,Inativo Transitável,AV. PRESTES MAIA,2
+02-03-2016,Zona Oeste,Butantã,Inativo Intransitável,AV. PROFESSOR FRANCISCO MORATO,2
+02-03-2019,Zona Oeste,Butantã,Inativo Transitável,AV. MAGALHAES DE CASTRO (BUTANTA),2
+02-03-2019,Zona Oeste,Butantã,Inativo Transitável,AV. PROF. FRANCISCO MORATO,2
+02-03-2019,Zona Oeste,Lapa,Inativo Intransitável,R. GUAICURUS (LAPA),2
+02-03-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),3
+02-03-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),2
+02-06-2016,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+02-06-2016,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,2
+02-11-2015,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,3
+02-11-2015,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,3
+02-11-2015,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,MARGINAL TIETE,3
+02-11-2024,Zona Sul,Santo Amaro,Inativo Transitável,AV JORN ROBERTO MARINHO,2
+03-02-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,2
+03-02-2025,Centro,Sé,Inativo Transitável,AV DO ESTADO,2
+03-02-2026,Zona Leste,Itaim Paulista,Inativo Intransitável,AV MARECHAL TITO,2
+03-03-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV GUIDO CALOI,2
+03-06-2019,Centro,Sé,Inativo Transitável,R. BENTO FREITAS,2
+03-06-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NAÇÕES UNIDAS,2
+03-07-2015,Centro,Sé,Inativo Intransitável,AV RIO BRANCO,3
+03-11-2016,Centro,Sé,Inativo Transitável,MARGINAL TIETE,2
+03-11-2016,Centro,Sé,Inativo Transitável,PC MAL DEODORO,2
+03-12-2022,Zona Leste,Mooca,Inativo Intransitável,AV SALIM FARAH MALUF,2
+03-12-2022,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+03-12-2024,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PEDRO ALVARES CABRAL,2
+04-01-2019,Zona Sudeste,Vila Mariana,Inativo Transitável,AV. PROF ABRAAO DE MORAIS,2
+04-01-2020,Centro,Sé,Inativo Transitável,AV. S. JOAO,2
+04-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,4
+04-01-2020,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS,2
+04-02-2017,Zona Leste,Itaquera,Inativo Transitável,AV AGUIA DE HAIA,2
+04-02-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+04-02-2017,Zona Oeste,Lapa,Inativo Intransitável,R TRAJANO,2
+04-02-2017,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+04-02-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+04-02-2019,Centro,Sé,Inativo Transitável,AV. SANTOS DUMONT,2
+04-02-2019,Zona Oeste,Lapa,Inativo Transitável,AV. IMP. LEOPOLDINA,2
+04-02-2019,Zona Sul,Santo Amaro,Inativo Transitável,AV. VITOR MANZINI,2
+04-02-2025,Zona Leste,Itaim Paulista,Inativo Intransitável,AV MARECHAL TITO,2
+04-02-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+04-05-2017,Centro,Sé,Inativo Transitável,"AV SEN QUEIROS,",2
+04-07-2019,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+04-07-2019,Centro,Sé,Inativo Transitável,R. VINTE E CINCO DE MARCO,2
+04-07-2019,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV. ARICANDUVA,2
+04-07-2019,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),2
+04-07-2019,Zona Leste,Mooca,Inativo Transitável,AV. GUILHERME COTCHING,2
+04-11-2015,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+04-11-2017,Zona Oeste,Pinheiros,Inativo Intransitável,AV. MAGALHAES DE CASTRO,2
+05-01-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+05-02-2015,Zona Oeste,Butantã,Inativo Transitável,AV PROF FRANCISCO MORATO,2
+05-02-2015,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,5
+05-03-2022,Zona Oeste,Lapa,Inativo Intransitável,AV POMPEIA,2
+05-03-2024,Zona Oeste,Butantã,Inativo Intransitável,AV PROF FRANCISCO MORATO,2
+05-06-2016,Zona Leste,Penha,Inativo Transitável,AV CD.DE FRONTIN,2
+05-06-2016,Zona Norte,Santana,Inativo Transitável,MARGINAL TIETE ASCB CENTRAL,2
+05-06-2016,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,AV MORVAN DIAS DE FIGUEIREDO,3
+05-06-2017,Centro,Sé,Inativo Transitável,MARGINAL TIETE CBAS CENTRAL,2
+05-06-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+05-06-2017,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+05-06-2025,Zona Oeste,Butantã,Inativo Intransitável,AV ALCIDES SANGIRARDI,2
+05-07-2019,Centro,Sé,Inativo Transitável,R. DOS. AMERICANOS,2
+05-07-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. NOVE DE JULHO,2
+05-07-2019,Zona Oeste,Pinheiros,Inativo Transitável,R. ESTADOS UNIDOS,3
+05-09-2018,Zona Oeste,Lapa,Inativo Transitável,R. BRIG. GAVIAO PEIXOTO,2
+05-10-2023,Zona Sul,Santo Amaro,Inativo Transitável,AV STO AMARO,2
+05-11-2018,Centro,Sé,Inativo Transitável,AV. PRESTES MAIA,2
+05-11-2019,Zona Sudeste,Vila Mariana,Inativo Transitável,AV. PROF ABRAAO DE MORAIS (CURSINO),2
+05-12-2015,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+06-01-2015,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,3
+06-02-2015,Zona Sudeste,Vila Mariana,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+06-02-2017,Zona Leste,Penha,Inativo Intransitável,R DR LUIZ AYRES,2
+06-02-2019,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,2
+06-02-2019,Zona Norte,Pirituba/Jaraguá,Inativo Transitável,AV. RAIMUNDO PEREIRA DE MAGALHAES,2
+06-02-2019,Zona Oeste,Lapa,Inativo Transitável,AV. IMP. LEOPOLDINA,2
+06-02-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+06-02-2020,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,2
+06-03-2015,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+06-03-2017,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV RUBEM BERTA,2
+06-03-2019,Zona Sul,M'Boi Mirim,Inativo Intransitável,ES. M BOI MIRIM (JARDIM ANGELA),3
+06-04-2017,Centro,Sé,Inativo Intransitável,PC DA BANDEIRA,2
+06-04-2017,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,2
+06-04-2019,Centro,Sé,Inativo Transitável,AV. RIO BRANCO (REPUBLICA),2
+06-04-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+06-05-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+06-06-2016,Zona Leste,Mooca,Inativo Intransitável,AV CELSO GARCIA,2
+06-06-2017,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,AV MORVAN DIAS DE FIGUEIREDO,3
+06-06-2017,Zona Oeste,Butantã,Inativo Transitável,AV MAGALHAES DE CASTRO,2
+06-06-2017,Zona Oeste,Butantã,Inativo Transitável,"AV VITAL BRASIL,",2
+06-06-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+06-06-2017,Zona Sul,Santo Amaro,Inativo Transitável,"AV DAS NACOES UNIDAS,",2
+06-11-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,3
+06-12-2015,Zona Leste,Mooca,Inativo Transitável,AV ALCANTARA MACHADO,2
+06-12-2015,Zona Norte,Casa Verde,Inativo Transitável,AV INAJAR DE SOUZA,3
+07-01-2015,Zona Leste,Mooca,Inativo Intransitável,MARGINAL TIETE,2
+07-01-2015,Zona Leste,Mooca,Inativo Transitável,AV ALCANTARA MACHADO,2
+07-01-2015,Zona Norte,Freguesia do Ó,Inativo Intransitável,AV ANTONIO MUNHOZ BONILHA,2
+07-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,3
+07-01-2017,Zona Norte,Freguesia do Ó,Inativo Intransitável,AV NSRA.DO O,2
+07-01-2018,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,2
+07-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),4
+07-01-2020,Zona Sudeste,Vila Mariana,Inativo Transitável,AV. ANTONIO J. DE MOURA ANDRADE,2
+07-01-2026,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,3
+07-01-2026,Zona Norte,Santana,Inativo Intransitável,MARGINAL TIETE,2
+07-02-2023,Zona Leste,Itaquera,Inativo Intransitável,AV ITAQUERA,2
+07-02-2023,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,AV SANATORIO,2
+07-02-2023,Zona Oeste,Butantã,Inativo Intransitável,AV PROF FRANCISCO MORATO,2
+07-02-2023,Zona Oeste,Lapa,Inativo Intransitável,AV ENG BILLINGS,2
+07-02-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV VITOR MANZINI,2
+07-02-2023,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+07-03-2015,Zona Sul,Santo Amaro,Inativo Transitável,AV WASHINGTON LUIS,2
+07-03-2017,Zona Leste,Mooca,Inativo Transitável,"AV CELSO GARCIA,",2
+07-03-2019,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+07-03-2019,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,3
+07-04-2017,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+07-04-2017,Zona Oeste,Lapa,Inativo Intransitável,AV MARQ.DE SAO VICENTE,2
+07-04-2017,Zona Oeste,Lapa,Inativo Intransitável,AV PRES CASTELO BRANCO,2
+07-04-2017,Zona Oeste,Lapa,Inativo Intransitável,MARGINAL TIETE,2
+07-04-2017,Zona Oeste,Lapa,Inativo Transitável,AV MARQ.DE SAO VICENTE,6
+07-04-2017,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+07-06-2017,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+07-06-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,3
+07-12-2022,Centro,Sé,Inativo Transitável,R PORTO SEGURO,2
+08-01-2015,Zona Oeste,Butantã,Inativo Transitável,AV MAGALHAES DE CASTRO,2
+08-01-2017,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE EXPRESSA,2
+08-01-2019,Zona Leste,Vila Prudente,Inativo Intransitável,AV. LUIZ INACIO DE ANHAIA MELO,2
+08-01-2020,Centro,Sé,Inativo Transitável,AV. RIO BRANCO (REPUBLICA),2
+08-01-2020,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE ASCB EXPRESSA (CASA VERDE),2
+08-01-2020,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),3
+08-01-2024,Centro,Sé,Inativo Intransitável,AV S JOAO,2
+08-01-2026,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV DR EDUARDO COTCHING,2
+08-01-2026,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV IBIRAPUERA,2
+08-02-2016,Centro,Sé,Inativo Intransitável,AV. SANTOS DUMONT,2
+08-02-2016,Centro,Sé,Inativo Intransitável,MARGINAL TIETE,2
+08-02-2016,Zona Oeste,Lapa,Inativo Intransitável,AV POMPEIA,2
+08-03-2015,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,3
+08-03-2015,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,3
+08-03-2015,Zona Oeste,Butantã,Inativo Transitável,"AV VITAL BRASIL,",2
+08-03-2023,Zona Sudeste,Vila Mariana,Inativo Transitável,AV DOS BANDEIRANTES,3
+08-03-2024,Zona Sudeste,Vila Mariana,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+08-04-2019,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,3
+08-04-2019,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,3
+08-09-2015,Zona Leste,Itaquera,Inativo Transitável,AV JOSE PINHEIRO BORGES,2
+08-09-2015,Zona Oeste,Butantã,Inativo Transitável,"AV VITAL BRASIL,",2
+08-09-2015,Zona Oeste,Lapa,Inativo Transitável,MARGINAL TIETE,3
+08-09-2015,Zona Sul,Campo Limpo,Inativo Transitável,R ALVES DOS SANTOS,2
+08-09-2015,Zona Sul,Capela do Socorro,Inativo Transitável,"AV ATLANTICA,",2
+08-09-2015,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+08-11-2024,Centro,Sé,Inativo Intransitável,AV MERCURIO,2
+08-11-2024,Centro,Sé,Inativo Transitável,VEL PRES JOAO GOULART,2
+08-11-2024,Zona Oeste,Lapa,Inativo Transitável,AV ERMANO MARCHETTI,2
+08-11-2024,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PEDRO ALVARES CABRAL,2
+08-12-2025,Zona Oeste,Pinheiros,Inativo Intransitável,MARGINAL PINHEIROS INTCB,2
+09-01-2016,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,4
+09-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+09-01-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+09-01-2022,Centro,Sé,Inativo Transitável,R BARRA DO TIBAJI,2
+09-03-2015,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,2
+09-03-2016,Zona Oeste,Pinheiros,Inativo Intransitável,TÚNEL MAX FEFFER,2
+09-03-2016,Zona Sudeste,Ipiranga,Inativo Intransitável,AV. PROF ABRAHÃO DE MORAES,2
+09-03-2016,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV. RUBEM BERTA,2
+09-03-2019,Zona Oeste,Butantã,Inativo Transitável,AV. PROF FRANCISCO MORATO (BUTANTA),2
+09-03-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+09-03-2023,Centro,Sé,Inativo Transitável,MARGINAL TIETE CBAS CENTRAL,2
+09-04-2019,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS (ALTO DE PINHEIROS),2
+09-09-2015,Zona Sul,Campo Limpo,Inativo Transitável,R ALVES DOS SANTOS,2
+09-10-2020,Zona Norte,Pirituba/Jaraguá,Inativo Intransitável,AV. RAIMUNDO PEREIRA DE MAGALHÃES,2
+09-10-2020,Zona Oeste,Butantã,Inativo Transitável,AV. VITAL BRASIL,2
+09-10-2023,Centro,Sé,Inativo Intransitável,AV CRUZEIRO DO SUL,2
+09-11-2016,Zona Leste,Mooca,Inativo Transitável,"AV CELSO GARCIA,",2
+09-12-2019,Zona Leste,Itaquera,Inativo Transitável,AV. JACU PESSEGO N TRABALHADORES,2
+09-12-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS,2
+10-01-2015,Zona Norte,Freguesia do Ó,Inativo Intransitável,AV NSRA.DO O,2
+10-01-2016,Zona Leste,Mooca,Inativo Transitável,"MARGINAL TIETE,",2
+10-01-2018,Zona Sul,Santo Amaro,Inativo Intransitável,AV. DAS NAÇÕES UNIDAS,2
+10-01-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS. NACOES UNIDAS,2
+10-01-2019,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV. PROF ABRAAO DE MORAIS,2
+10-01-2023,Centro,Sé,Inativo Transitável,PC DA BANDEIRA,2
+10-01-2024,Centro,Sé,Inativo Intransitável,AV DO ESTADO,2
+10-01-2024,Centro,Sé,Inativo Intransitável,PQ ANHANGABAU,2
+10-01-2024,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+10-02-2016,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,3
+10-02-2020,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+10-02-2020,Zona Oeste,Lapa,Inativo Intransitável,AV. ENG BILLINGS,2
+10-02-2020,Zona Oeste,Lapa,Inativo Intransitável,MARGINAL TIETE,2
+10-02-2020,Zona Oeste,Lapa,Inativo Intransitável,MARGINAL TIETE (BARRA FUNDA),2
+10-02-2020,Zona Oeste,Pinheiros,Inativo Intransitável,MARGINAL PINHEIROS,2
+10-02-2020,Zona Sul,Cidade Ademar,Inativo Transitável,R. MIGUEL YUNES,2
+10-02-2025,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Intransitável,R CEL MARQUES RIBEIRO,2
+10-03-2016,Centro,Sé,Inativo Transitável,AV PRESTES MAIA,2
+10-03-2016,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,3
+10-03-2016,Zona Oeste,Butantã,Inativo Transitável,AV PROF FRANCISCO MORATO,2
+10-03-2016,Zona Sul,Campo Limpo,Inativo Intransitável,AV ELLIS MAAS,2
+10-03-2017,Zona Oeste,Lapa,Inativo Transitável,AV MARQ.DE SAO VICENTE,2
+10-03-2019,Zona Sudeste,Ipiranga,Inativo Intransitável,AV.ABRAÃO DE MORAIS,2
+10-03-2019,Zona Sul,Santo Amaro,Inativo Transitável,AV. ROQUE PETRONI JUNIOR,2
+10-03-2019,Zona Sul,Santo Amaro,Inativo Transitável,AV. ROQUE PETRONI JUNIOR (ITAIM BIBI),2
+10-03-2023,Centro,Sé,Inativo Transitável,AV PRES CASTELO BRANCO,2
+10-03-2023,Zona Oeste,Butantã,Inativo Intransitável,AV PROF FRANCISCO MORATO,2
+10-03-2023,Zona Oeste,Lapa,Inativo Intransitável,AV ORDEM E PROGRESSO,2
+10-03-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,4
+10-07-2024,Centro,Sé,Inativo Intransitável,AV MERCURIO,2
+10-10-2025,Centro,Sé,Inativo Transitável,AV DO ESTADO,2
+10-12-2019,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,2
+10-12-2019,Zona Sul,Santo Amaro,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),3
+10-12-2024,Zona Leste,São Mateus,Inativo Transitável,R JOSE AUGUSTO CESAR SALGADO,2
+11-01-2019,Zona Norte,Santana,Inativo Transitável,MARGINAL TIETE,2
+11-02-2015,Zona Sudeste,Vila Mariana,Inativo Transitável,"AV VINTE E TRES DE MAIO,",2
+11-02-2020,Zona Norte,Santana,Inativo Intransitável,AV. OLAVO FONTOURA,2
+11-03-2015,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,3
+11-03-2016,Centro,Sé,Inativo Transitável,AV PRESTES MAIA,2
+11-03-2016,Zona Norte,Freguesia do Ó,Inativo Intransitável,AV OTAVIANO ALVES DE LIMA,2
+11-03-2016,Zona Norte,Santana,Inativo Intransitável,Av Zaki Narchi,2
+11-03-2016,Zona Oeste,Lapa,Inativo Intransitável,AV MOFARREJ,2
+11-03-2016,Zona Oeste,Lapa,Inativo Intransitável,MARGINAL TIETE CBAS EXPRESSA,2
+11-03-2016,Zona Oeste,Lapa,Inativo Transitável,AV DR GASTAO VIDIGAL,2
+11-03-2016,Zona Sul,Santo Amaro,Inativo Intransitável,Av das Nações Unidas,3
+11-03-2019,Centro,Sé,Inativo Intransitável,AV. DO ESTADO,2
+11-03-2019,Centro,Sé,Inativo Intransitável,R. SERGIO TOMAS,2
+11-03-2019,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,2
+11-03-2019,Zona Norte,Pirituba/Jaraguá,Inativo Transitável,AV. RAIMUNDO PEREIRA DE MAGALHAES,2
+11-03-2019,Zona Norte,Santana,Inativo Intransitável,AV. OLAVO FONTOURA,2
+11-03-2019,Zona Oeste,Lapa,Inativo Transitável,AV. PRES CASTELO BRANCO,2
+11-03-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS,2
+11-03-2023,Zona Oeste,Butantã,Inativo Intransitável,AV PROF FRANCISCO MORATO,2
+11-03-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+11-09-2015,Centro,Sé,Inativo Transitável,AV CRUZEIRO DO SUL,2
+11-09-2015,Centro,Sé,Inativo Transitável,"AV RIO BRANCO,",2
+11-09-2015,Zona Oeste,Butantã,Inativo Transitável,"AV VITAL BRASIL,",3
+11-12-2019,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+11-12-2022,Zona Leste,Itaquera,Inativo Intransitável,AV ITAQUERA,2
+12-01-2015,Centro,Sé,Inativo Transitável,PC DA BANDEIRA,2
+12-01-2015,Zona Sul,Capela do Socorro,Inativo Transitável,AV ATLÂNTICA,2
+12-01-2015,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,5
+12-01-2015,Zona Sul,Santo Amaro,Inativo Intransitável,AV ROQUE PETRONI JUNIOR,2
+12-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. ALCANTARA MACHADO (BELEM),2
+12-01-2021,Zona Oeste,Butantã,Inativo Transitável,AV. PROF FRANCISCO MORATO (BUTANTA),2
+12-01-2024,Zona Sul,Santo Amaro,Inativo Intransitável,AV SANTO AMARO,2
+12-02-2023,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+12-02-2023,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV DOS BANDEIRANTES,2
+12-02-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,3
+12-03-2018,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,2
+12-03-2022,Centro,Sé,Inativo Intransitável,PRAÇA 14 BIS,2
+12-03-2022,Zona Leste,Penha,Inativo Intransitável,R DR LUIZ AYRES,2
+12-03-2022,Zona Leste,São Mateus,Inativo Intransitável,AV ARICANDUVA,2
+12-03-2022,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+12-03-2022,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV STO AMARO,2
+12-03-2022,Zona Sul,M'Boi Mirim,Inativo Intransitável,AV CARLOS CALDEIRA FILHO,3
+12-03-2022,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+12-10-2023,Centro,Sé,Inativo Transitável,AV DO ESTADO,2
+12-11-2019,Centro,Sé,Inativo Transitável,AL. GLETE,2
+12-12-2016,Centro,Sé,Inativo Transitável,PC MAL DEODORO,2
+12-12-2016,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV ARICANDUVA,5
+12-12-2016,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV RIO DAS PEDRAS,2
+12-12-2016,Zona Norte,Pirituba/Jaraguá,Inativo Transitável,AV RAIMUNDO PEREIRA DE MAGALHAES,2
+13-01-2026,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+13-01-2026,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Intransitável,AV MORVAN DIAS DE FIGUEIREDO,3
+13-01-2026,Zona Oeste,Lapa,Inativo Intransitável,AV MARQ DE SAO VICENTE,3
+13-02-2019,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,2
+13-02-2021,Zona Norte,Pirituba/Jaraguá,Inativo Intransitável,AV. RAIMUNDO PEREIRA DE MAGALHAES,3
+13-03-2018,Zona Oeste,Butantã,Inativo Transitável,AV. MAGALHAES DE CASTRO,2
+13-03-2022,Zona Norte,Santana,Inativo Intransitável,R CEL MARQUES RIBEIRO,2
+13-03-2023,Centro,Sé,Inativo Intransitável,MARGINAL TIETE CBAS CENTRAL,2
+13-03-2023,Zona Leste,Penha,Inativo Intransitável,AV CD.DE FRONTIN,2
+13-03-2023,Zona Leste,São Mateus,Inativo Intransitável,AV ARICANDUVA,3
+13-03-2023,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,4
+13-03-2023,Zona Oeste,Butantã,Inativo Intransitável,PC ALFREDO GOMES,2
+13-03-2023,Zona Sul,M'Boi Mirim,Inativo Transitável,ES M'BOI MIRIM,2
+13-03-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+13-03-2023,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,3
+13-03-2023,Zona Sul,Santo Amaro,Inativo Transitável,AV JORN ROBERTO MARINHO,2
+13-06-2017,Zona Norte,Santana,Inativo Transitável,AV GAL ATALIBA LEONEL,2
+13-12-2018,Zona Leste,Mooca,Inativo Transitável,AV. ALCANTARA MACHADO,2
+13-12-2021,Centro,Sé,Inativo Intransitável,R PRES BATISTA PEREIRA,2
+13-12-2021,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+13-12-2022,Zona Sul,Santo Amaro,Inativo Intransitável,AV STO AMARO,2
+14-01-2015,Zona Leste,Mooca,Inativo Transitável,AV CDSSA ELISABETH DE ROBIANO,2
+14-01-2015,Zona Oeste,Butantã,Inativo Transitável,AV ENG BILLINGS,2
+14-01-2015,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+14-01-2015,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PRES TANCREDO NEVES,2
+14-01-2021,Zona Norte,Pirituba/Jaraguá,Inativo Intransitável,AV. CABO ADAO PEREIRA (PIRITUBA),2
+14-01-2026,Zona Oeste,Butantã,Inativo Intransitável,AV JULES RIMET,2
+14-01-2026,Zona Sul,Campo Limpo,Inativo Intransitável,AV CARLOS CALDEIRA FILHO,2
+14-02-2024,Centro,Sé,Inativo Intransitável,AV CRUZEIRO DO SUL,3
+14-03-2015,Centro,Sé,Inativo Transitável,"PC DA BANDEIRA,",2
+14-03-2018,Zona Oeste,Butantã,Inativo Transitável,AV. MAGALHAES DE CASTRO,2
+14-03-2019,Zona Sul,Santo Amaro,Inativo Transitável,AV. DAS. NACOES UNIDAS,2
+14-03-2022,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+14-03-2023,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,2
+14-04-2019,Zona Oeste,Lapa,Inativo Transitável,MARGINAL TIETE,2
+14-04-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+14-04-2025,Zona Norte,Casa Verde,Inativo Transitável,AV ORDEM E PROGRESSO,2
+14-11-2016,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV ARICANDUVA,2
+14-11-2016,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+14-11-2019,Zona Leste,Mooca,Inativo Transitável,AV. SALIM FARAH MALUF,2
+14-12-2015,Zona Oeste,Pinheiros,Inativo Transitável,"AV DAS NACOES UNIDAS,",4
+15-02-2016,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+15-02-2016,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,2
+15-02-2016,Zona Sudeste,Ipiranga,Inativo Intransitável,AV. PROF. ABRAHÃO DE MORAES,2
+15-02-2019,Zona Sul,Santo Amaro,Inativo Intransitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),3
+15-03-2020,Zona Leste,Mooca,Inativo Intransitável,AV. CELSO GARCIA (BELEM),3
+15-03-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),2
+15-03-2022,Zona Oeste,Lapa,Inativo Intransitável,R GUSTAV WILLI BORGHOFF,2
+15-04-2015,Zona Leste,Itaquera,Inativo Intransitável,AV JACU-PESSEGO N.TRABALHADORES,2
+15-04-2015,Zona Leste,Penha,Inativo Intransitável,AV ANTONIO ESTEVAO DE CARVALHO,2
+15-04-2015,Zona Leste,Penha,Inativo Intransitável,AV S MIGUEL,2
+15-10-2018,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS. NACOES UNIDAS,2
+15-10-2021,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,2
+16-01-2017,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,2
+16-01-2017,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+16-01-2017,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,3
+16-01-2020,Centro,Sé,Inativo Intransitável,R. GLICERIO (LIBERDADE),2
+16-01-2020,Centro,Sé,Inativo Transitável,AV. RIO BRANCO (REPUBLICA),2
+16-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. ALCANTARA MACHADO (BELEM),3
+16-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,3
+16-01-2020,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA (BELEM),5
+16-01-2020,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,2
+16-01-2020,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+16-01-2022,Zona Leste,Itaim Paulista,Inativo Transitável,R MANUEL BARBALHO DE LIMA,2
+16-01-2025,Centro,Sé,Inativo Intransitável,AV DO ESTADO,2
+16-01-2025,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+16-01-2025,Zona Sul,Santo Amaro,Inativo Intransitável,AV STO AMARO,2
+16-01-2026,Zona Sul,Campo Limpo,Inativo Intransitável,AV CARLOS CALDEIRA FILHO,3
+16-02-2015,Zona Norte,Santana,Inativo Intransitável,"R CEL MARQUES RIBEIRO,",2
+16-02-2015,Zona Oeste,Lapa,Inativo Intransitável,R TURIASSU,2
+16-02-2015,Zona Oeste,Lapa,Inativo Intransitável,VEL PRES ARTHUR DA COSTA E SILVA,2
+16-02-2019,Zona Leste,Vila Prudente,Inativo Intransitável,AV. PROF LUIZ IGNACIO ANHAIA MELLO,2
+16-02-2020,Centro,Sé,Inativo Transitável,R. DA. CANTAREIRA,2
+16-02-2021,Zona Sul,Santo Amaro,Inativo Transitável,AV. VITOR MANZINI,2
+16-02-2023,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+16-03-2015,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+16-03-2015,Zona Leste,Mooca,Inativo Intransitável,R ARNALDO CINTRA,2
+16-03-2015,Zona Oeste,Pinheiros,Inativo Transitável,AV SANTO AMARO,2
+16-03-2015,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,3
+16-03-2020,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV. ARICANDUVA (ARICANDUVA),3
+16-03-2020,Zona Leste,Itaquera,Inativo Intransitável,AV. ITAQUERA (CARRAO),3
+16-03-2020,Zona Leste,Vila Prudente,Inativo Intransitável,AV. PROF LUIZ IGNACIO ANHAIA MELLO (SAO LUCAS),3
+16-03-2020,Zona Sudeste,Ipiranga,Inativo Intransitável,AV. DO ESTADO (BOM RETIRO),2
+16-03-2022,Zona Oeste,Pinheiros,Inativo Transitável,AV CIDADE JARDIM,2
+16-12-2025,Centro,Sé,Inativo Transitável,R ANHANGUERA,2
+16-12-2025,Zona Leste,Itaim Paulista,Inativo Intransitável,AV MARECHAL TITO,3
+17-01-2020,Zona Sul,Campo Limpo,Inativo Transitável,ES. DE. ITAPECERICA,2
+17-01-2024,Zona Leste,Itaquera,Inativo Intransitável,AV ITAQUERA,2
+17-01-2026,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+17-01-2026,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+17-02-2020,Zona Oeste,Butantã,Inativo Transitável,AV. PROF FRANCISCO MORATO (BUTANTA),2
+17-02-2021,Zona Leste,Mooca,Inativo Intransitável,AV. ALCANTARA MACHADO (BELEM),2
+17-02-2021,Zona Sul,Campo Limpo,Inativo Intransitável,ES. DO. CAMPO LIMPO,2
+17-02-2026,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV REG FEIJO,2
+17-03-2021,Zona Oeste,Pinheiros,Inativo Intransitável,AV. STO AMARO,2
+17-03-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+17-03-2024,Zona Leste,Itaim Paulista,Inativo Transitável,RUA MANUEL BARBALHO DE LIMA,2
+17-10-2016,Centro,Sé,Inativo Transitável,PC DA BANDEIRA,2
+17-10-2018,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,*AV. ARICANDUVA,2
+17-10-2018,Zona Leste,Vila Prudente,Inativo Intransitável,*AV. PROF LUIZ IGNACIO ANHAIA MELLO,2
+17-11-2015,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV ARICANDUVA,2
+17-11-2015,Zona Leste,Mooca,Inativo Transitável,AV ALCANTARA MACHADO,4
+18-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,3
+18-02-2020,Zona Sudeste,Ipiranga,Inativo Intransitável,AV. PROF ABRAAO DE MORAIS (CURSINO),4
+18-02-2023,Centro,Sé,Inativo Intransitável,R PORTO SEGURO,2
+18-02-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+18-02-2024,Zona Leste,Mooca,Inativo Intransitável,AV SALIM FARAH MALUF,2
+18-02-2025,Centro,Sé,Inativo Intransitável,AV SANTOS DUMONT,2
+18-02-2025,Zona Norte,Freguesia do Ó,Inativo Intransitável,AV GEN EDGAR FACO,2
+18-02-2025,Zona Sudeste,Ipiranga,Inativo Intransitável,R PRES BATISTA PEREIRA,2
+18-03-2021,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+18-03-2021,Centro,Sé,Inativo Transitável,VEL. PRES. JOAO GOULART,2
+18-03-2021,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV. IBIRAPUERA,2
+18-03-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+18-03-2025,Zona Leste,Mooca,Inativo Transitável,AV ALCANTARA MACHADO,2
+18-03-2025,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PEDRO ALVARES CABRAL,2
+18-04-2023,Zona Oeste,Butantã,Inativo Intransitável,AV PROF FRANCISCO MORATO,2
+18-04-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV IBIRAPUERA,2
+18-11-2015,Zona Oeste,Lapa,Inativo Transitável,"AV MARQ.DE SAO VICENTE,",2
+18-11-2017,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV. VINTE E TRES DE MAIO,2
+18-12-2016,Zona Norte,Santana,Inativo Intransitável,AV OLAVO FONTOURA,2
+19-02-2016,Zona Leste,Itaquera,Inativo Intransitável,AV. ARICANDUVA,2
+19-02-2016,Zona Sul,M'Boi Mirim,Inativo Intransitável,AV. GUARAPIRANGA,2
+19-02-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV. DAS NAÇÕES UNIDAS,5
+19-02-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV. INTERLAGOS,2
+19-02-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV. ROQUE PETRONI JUNIOR,2
+19-02-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV. VITOR MANZINI,4
+19-02-2023,Zona Leste,São Mateus,Inativo Intransitável,AV JACU PESSEGO N TRABALHADORES,2
+19-03-2015,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,R JULIO COLACO,2
+19-03-2015,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV ARICANDUVA,2
+19-03-2015,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV IBIRAPUERA,3
+19-03-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS. NACOES UNIDAS,2
+19-03-2021,Centro,Sé,Inativo Intransitável,VEL. PRES JOAO GOULART (BARRA FUNDA),2
+19-03-2021,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+19-03-2024,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Intransitável,R CEL MARQUES RIBEIRO,2
+19-05-2017,Centro,Sé,Inativo Intransitável,AV RIO BRANCO,2
+19-05-2017,Zona Leste,Itaquera,Inativo Transitável,"AV JACU-PESSEGO N TRABALHADORES,",2
+19-05-2017,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,4
+19-05-2017,Zona Sul,Santo Amaro,Inativo Transitável,"AV DAS NACOES UNIDAS,",2
+19-05-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV STO AMARO,2
+19-05-2019,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV. ARICANDUVA,4
+19-11-2018,Centro,Sé,Inativo Transitável,AV. DO ESTADO,2
+19-11-2018,Zona Leste,Mooca,Inativo Transitável,AV. JOSE PINHEIRO BORGES,2
+19-12-2015,Zona Leste,Itaquera,Inativo Transitável,"AV JACU-PESSEGO N TRABALHADORES,",2
+19-12-2018,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+19-12-2018,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,3
+20-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+20-01-2017,Zona Oeste,Lapa,Inativo Transitável,AV MARQUES DE SÃO VICENTE,2
+20-01-2022,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,3
+20-02-2019,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AVENIDA ARICANDUVA,2
+20-02-2020,Centro,Sé,Inativo Transitável,AV. MERCURIO,2
+20-02-2020,Zona Leste,Mooca,Inativo Intransitável,AV. CELSO GARCIA (BELEM),2
+20-02-2023,Zona Norte,Santana,Inativo Intransitável,AV LUIZ DUMONT VILLARES,2
+20-02-2024,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PEDRO ALVARES CABRAL,2
+20-03-2015,Zona Oeste,Lapa,Inativo Intransitável,AV MARQ.DE SAO VICENTE,2
+20-03-2015,Zona Oeste,Lapa,Inativo Intransitável,PC LUIZ CARLOS MESQUITA,2
+20-03-2018,Centro,Sé,Inativo Intransitável,PC. DA BANDEIRA,2
+20-10-2016,Zona Oeste,Lapa,Inativo Intransitável,RUA COROLIANO,2
+20-10-2020,Zona Norte,Jaçanã/ Tremembé,Inativo Transitável,AV. CEL. SEZEFREDO FAGUNDES,2
+20-10-2020,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,2
+20-12-2018,Zona Oeste,Pinheiros,Inativo Transitável,R. ESTADOS UNIDOS,2
+20-12-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,3
+20-12-2024,Zona Leste,Itaquera,Inativo Intransitável,AV JACU PESSEGO N TRABALHADORES,2
+21-01-2017,Zona Norte,Santana,Inativo Intransitável,AV OLAVO FONTOURA,2
+21-01-2017,Zona Oeste,Lapa,Inativo Transitável,AV MARQ.DE SAO VICENTE,4
+21-01-2018,Zona Oeste,Pinheiros,Inativo Transitável,AV. REBOUCAS,3
+21-02-2016,Zona Sul,M'Boi Mirim,Inativo Intransitável,Av. Guido Caloi,2
+21-02-2016,Zona Sul,Santo Amaro,Inativo Transitável,AV. DAS NAÇÕES UNIDAS,2
+21-02-2019,Centro,Sé,Inativo Transitável,AV. DO. ESTADO,2
+21-02-2019,Zona Leste,Mooca,Inativo Transitável,AV. CELSO GARCIA,2
+21-02-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+21-03-2019,Zona Oeste,Pinheiros,Inativo Intransitável,AV. DAS NACOES UNIDAS,2
+21-05-2017,Zona Norte,Santana,Inativo Transitável,AV CRUZEIRO DO SUL,2
+21-05-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+21-08-2016,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,AV MORVAN DIAS DE FIGUEIREDO,2
+21-10-2016,Zona Oeste,Butantã,Inativo Transitável,AV LINEU DE PAULA MACHADO,3
+21-10-2022,Centro,Sé,Inativo Transitável,VEL PRES JOAO GOULART,2
+21-11-2017,Zona Oeste,Lapa,Inativo Intransitável,AV.MARQ DE SAO VICENTE,2
+21-12-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+21-12-2016,Zona Sul,Santo Amaro,Inativo Intransitável,AV ROQUE PETRONI JUNIOR,2
+22-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+22-02-2017,Zona Oeste,Lapa,Inativo Intransitável,R JEROAQUARA,2
+22-02-2017,Zona Sudeste,Vila Mariana,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+22-02-2019,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+22-05-2016,Centro,Sé,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+22-09-2025,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PROF ABRAAO DE MORAIS,2
+22-10-2015,Centro,Sé,Inativo Intransitável,"AV RIO BRANCO,",2
+22-10-2015,Centro,Sé,Inativo Transitável,AV RIO BRANCO,2
+22-10-2015,Zona Norte,Santana,Inativo Transitável,AV ZAKI NARCHI,2
+22-12-2015,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+23-01-2018,Zona Sudeste,Vila Mariana,Inativo Transitável,AV. PROF ABRAAO DE MORAIS,5
+23-01-2021,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV. ARICANDUVA,2
+23-02-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV ROQUE PETRONI JUNIOR,2
+23-02-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+23-02-2024,Zona Leste,Penha,Inativo Transitável,AV. ANTONIO ESTEVAO DE CARVALHO,2
+23-10-2024,Zona Norte,Santana,Inativo Transitável,R CEL ANTONIO DE CARVALHO,2
+23-11-2023,Zona Sudeste,Vila Mariana,Inativo Transitável,AV IBIRAPUERA,2
+23-11-2023,Zona Sul,M'Boi Mirim,Inativo Transitável,ES M'BOI MIRIM,2
+23-12-2016,Zona Leste,Mooca,Inativo Transitável,"AV CELSO GARCIA,",2
+23-12-2018,Zona Sul,Santo Amaro,Inativo Intransitável,AV. DAS NACOES UNIDAS,2
+23-12-2023,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,3
+23-12-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+24-01-2017,Centro,Sé,Inativo Transitável,AV RIO BRANCO,3
+24-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+24-01-2017,Zona Norte,Casa Verde,Inativo Transitável,AV ANTONIO MUNHOZ BONILHA,2
+24-01-2019,Centro,Sé,Inativo Transitável,AV. RIO BRANCO,2
+24-01-2021,Zona Leste,Vila Prudente,Inativo Intransitável,AV. PROF LUIZ IGNACIO ANHAIA MELLO,3
+24-01-2025,Centro,Sé,Inativo Intransitável,AV DO ESTADO,2
+24-01-2025,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+24-01-2025,Zona Norte,Casa Verde,Inativo Intransitável,AV ORDEM E PROGRESSO,2
+24-02-2016,Zona Leste,Itaquera,Inativo Intransitável,AV ARICANDUVA,3
+24-02-2016,Zona Leste,São Miguel Paulista,Inativo Intransitável,AV JACU-PESSEGO N TRABALHADORES,2
+24-02-2017,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV ARICANDUVA,2
+24-02-2017,Zona Leste,Mooca,Inativo Intransitável,AV CELSO GARCIA,2
+24-02-2017,Zona Leste,Mooca,Inativo Transitável,AV PAES DE BARROS,2
+24-02-2017,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+24-02-2017,Zona Sul,Santo Amaro,Inativo Intransitável,AV ROQUE PETRONI JUNIOR,2
+24-02-2017,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,3
+24-02-2020,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS,2
+24-02-2021,Zona Sudeste,Vila Mariana,Inativo Transitável,AV. VINTE E TRES DE MAIO,2
+24-07-2015,Centro,Sé,Inativo Transitável,"PC DA BANDEIRA,",2
+24-10-2018,Zona Leste,Itaquera,Inativo Transitável,AV. JACU PESSEGO N TRABALHADORES,2
+25-01-2016,Zona Leste,Itaquera,Inativo Intransitável,R PADRE VIEGAS DE MENEZES,2
+25-01-2019,Centro,Sé,Inativo Transitável,AV. DO. ESTADO,2
+25-01-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+25-10-2018,Centro,Sé,Inativo Transitável,AV. DO ESTADO,2
+25-10-2018,Centro,Sé,Inativo Transitável,AV. SEN. QUEIROS,2
+25-10-2024,Centro,Sé,Inativo Transitável,AV CRUZEIRO DO SUL,3
+25-12-2015,Zona Leste,Itaquera,Inativo Transitável,AV ARICANDUVA,2
+25-12-2024,Zona Leste,Penha,Inativo Transitável,AV ANTONIO ESTEVAO DE CARVALHO,2
+26-01-2015,Zona Oeste,Butantã,Inativo Transitável,AV DAS NACOES UNIDAS,3
+26-01-2022,Zona Leste,Penha,Inativo Intransitável,AV CD.DE FRONTIN,2
+26-01-2022,Zona Leste,Vila Prudente,Inativo Intransitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,2
+26-01-2022,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+26-01-2025,Zona Leste,Penha,Inativo Intransitável,R ATALEIA,2
+26-02-2018,Zona Leste,Vila Prudente,Inativo Transitável,AV. PROF. LUIZ IGNACIO ANHAIA MELLO,3
+26-02-2019,Centro,Sé,Inativo Transitável,AV. SANTOS DUMONT,2
+26-02-2019,Zona Leste,Aricanduva/ Vila Formosa,Inativo Transitável,AV. ARICANDUVA,2
+26-02-2019,Zona Leste,Mooca,Inativo Transitável,AV. ALCANTARA MACHADO,2
+26-02-2019,Zona Oeste,Butantã,Inativo Transitável,AV. MAGALHAES DE CASTRO,3
+26-02-2020,Zona Oeste,Pinheiros,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+26-02-2020,Zona Sul,Campo Limpo,Inativo Intransitável,AV. CARLOS CALDEIRA FILHO,2
+26-02-2020,Zona Sul,Santo Amaro,Inativo Intransitável,AV. DAS NAÇÕES UNIDAS,2
+26-04-2019,Centro,Sé,Inativo Transitável,AV. MERCÚRIO,3
+26-10-2015,Centro,Sé,Inativo Transitável,AV CRUZEIRO DO SUL,2
+26-10-2015,Centro,Sé,Inativo Transitável,"AV RIO BRANCO,",4
+26-12-2015,Zona Oeste,Pinheiros,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+26-12-2015,Zona Oeste,Pinheiros,Inativo Intransitável,TN MAX FEFFER,2
+26-12-2015,Zona Oeste,Pinheiros,Inativo Transitável,AV DAS NACOES UNIDAS,2
+27-01-2015,Zona Sudeste,Ipiranga,Inativo Intransitável,AV PROF ABRAAO DE MORAIS,2
+27-01-2015,Zona Sul,M'Boi Mirim,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+27-01-2015,Zona Sul,Santo Amaro,Inativo Intransitável,AV DAS NACOES UNIDAS,2
+27-01-2016,Zona Leste,Mooca,Inativo Intransitável,AV ALCANTARA MACHADO,2
+27-01-2016,Zona Leste,Vila Prudente,Inativo Intransitável,"AV PROF LUIZ IGNACIO ANHAIA MELLO,",2
+27-01-2016,Zona Sudeste,Vila Mariana,Inativo Intransitável,"AV RUBEM BERTA,",2
+27-01-2016,Zona Sul,Santo Amaro,Inativo Intransitável,"AV ROQUE PETRONI JUNIOR,",2
+27-01-2016,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+27-01-2017,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+27-01-2017,Zona Norte,Casa Verde,Inativo Transitável,PTE ADHEMAR FERREIRA DA SILVA,2
+27-01-2022,Zona Sul,Campo Limpo,Inativo Intransitável,AV ELLIS MAAS,2
+27-01-2026,Zona Sul,Santo Amaro,Inativo Intransitável,AV VITOR MANZINI,2
+27-05-2024,Centro,Sé,Inativo Intransitável,AV RIO BRANCO,2
+27-05-2024,Zona Leste,Itaquera,Inativo Intransitável,AV MUSGO-DE-FLOR,2
+27-06-2020,Zona Leste,Mooca,Inativo Transitável,AV. ALCANTARA MACHADO,2
+27-06-2020,Zona Norte,Casa Verde,Inativo Intransitável,MARGINAL TIETE,2
+27-06-2020,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETE,2
+27-06-2020,Zona Norte,Santana,Inativo Intransitável,MARGINAL TIETE,2
+27-06-2020,Zona Norte,Santana,Inativo Transitável,MARGINAL TIETE,3
+27-06-2020,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Intransitável,AV. MORVAN DIAS DE FIGUEIREDO,2
+27-06-2020,Zona Oeste,Pinheiros,Inativo Intransitável,AV. DAS. NACOES UNIDAS,2
+27-06-2020,Zona Oeste,Pinheiros,Inativo Intransitável,VD. CAMPO BELO,2
+27-08-2015,Zona Oeste,Butantã,Inativo Intransitável,AV VITAL BRASIL,2
+27-09-2022,Centro,Sé,Inativo Intransitável,R PRES BATISTA PEREIRA,2
+27-09-2022,Centro,Sé,Inativo Transitável,AV RUDGE,2
+27-09-2022,Zona Leste,Itaquera,Inativo Intransitável,AV ITAQUERA,2
+27-09-2023,Centro,Sé,Inativo Transitável,VEL PRES JOAO GOULART,2
+27-10-2016,Centro,Sé,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+27-11-2017,Zona Oeste,Butantã,Inativo Transitável,AV. VITAL BRASIL,3
+27-11-2019,Zona Leste,Mooca,Inativo Transitável,AV. SALIM FARAH MALUF,2
+27-12-2015,Zona Oeste,Butantã,Inativo Transitável,AV MAGALHAES DE CASTRO,2
+27-12-2024,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+27-12-2024,Zona Leste,Penha,Inativo Intransitável,R ATALEIA,2
+28-01-2022,Centro,Sé,Inativo Intransitável,AV MERCURIO,2
+28-01-2022,Centro,Sé,Inativo Transitável,AV RIO BRANCO,3
+28-01-2022,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV STO AMARO,3
+28-01-2026,Zona Leste,Itaim Paulista,Inativo Intransitável,AV MAL TITO,3
+28-02-2016,Zona Leste,Itaquera,Inativo Transitável,AV AGUIA DE HAIA,2
+28-02-2019,Zona Oeste,Pinheiros,Inativo Transitável,MARGINAL PINHEIROS,2
+28-03-2018,Zona Oeste,Pinheiros,Inativo Intransitável,AV. DAS NACOES UNIDAS,2
+28-03-2018,Zona Oeste,Pinheiros,Inativo Intransitável,TN. MAX FEFFER,2
+28-03-2022,Zona Sul,Santo Amaro,Inativo Transitável,AV DAS NACOES UNIDAS,2
+28-09-2015,Centro,Sé,Inativo Transitável,AV CRUZEIRO DO SUL,3
+28-09-2015,Zona Norte,Freguesia do Ó,Inativo Transitável,R MAEST GABRIEL MIGLIORI,2
+28-11-2024,Zona Sul,Capela do Socorro,Inativo Intransitável,AV GUARAPIRANGA,2
+28-12-2016,Zona Norte,Freguesia do Ó,Inativo Transitável,AV GAL EDGAR FACO,2
+28-12-2021,Zona Sudeste,Vila Mariana,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+29-01-2018,Centro,Sé,Inativo Transitável,R. PAULA SOUSA,2
+29-01-2018,Zona Norte,Vila Maria/ Vila Guilherme,Inativo Transitável,R. CEL. MARQUES RIBEIRO,2
+29-01-2018,Zona Oeste,Pinheiros,Inativo Transitável,AV. NACOES UNIDAS,2
+29-01-2023,Zona Leste,São Mateus,Inativo Intransitável,AV ARICANDUVA,2
+29-01-2023,Zona Sul,Santo Amaro,Inativo Intransitável,AV INTERLAGOS,2
+29-01-2025,Zona Sudeste,Vila Mariana,Inativo Transitável,AV PEDRO ALVARES CABRAL,2
+29-03-2016,Zona Norte,Santana,Inativo Transitável,AV BRAZ LEME,2
+29-11-2015,Zona Leste,Mooca,Inativo Transitável,AV CELSO GARCIA,2
+29-11-2016,Centro,Sé,Inativo Transitável,AV PRES CASTELO BRANCO,2
+29-11-2022,Zona Oeste,Pinheiros,Inativo Transitável,AV IBIRAPUERA,2
+29-12-2016,Zona Norte,Santana,Inativo Transitável,AV OLAVO FONTOURA,2
+29-12-2020,Zona Oeste,Pinheiros,Inativo Intransitável,MARGINAL PINHEIROS (ALTO DE PINHEIROS),2
+29-12-2020,Zona Sul,Campo Limpo,Inativo Intransitável,ES. DO CAMPO LIMPO (CAMPO LIMPO),2
+30-01-2019,Centro,Sé,Inativo Intransitável,AV. RIO BRANCO,2
+30-01-2022,Zona Oeste,Lapa,Inativo Transitável,AV ENG BILLINGS,2
+30-01-2025,Zona Leste,Itaim Paulista,Inativo Transitável,AV MARECHAL TITO,2
+30-03-2018,Zona Sudeste,Vila Mariana,Inativo Intransitável,AV. DOS. BANDEIRANTES,2
+30-03-2018,Zona Sul,Santo Amaro,Inativo Transitável,AV. DAS NACOES UNIDAS (ALTO DE PINHEIROS),2
+30-03-2021,Zona Sul,Santo Amaro,Inativo Transitável,R. JOAO ALFREDO,2
+30-09-2022,Centro,Sé,Inativo Transitável,AL NOTHMANN,2
+30-11-2018,Zona Oeste,Lapa,Inativo Transitável,MARGINAL TIETE,3
+30-12-2021,Zona Oeste,Lapa,Inativo Transitável,AV ENG BILLINGS,2
+31-01-2024,Zona Leste,Vila Prudente,Inativo Transitável,AV PROF LUIZ IGNACIO ANHAIA MELLO,3
+31-01-2025,Zona Sudeste,Ipiranga,Inativo Intransitável,R PRES BATISTA PEREIRA,2
+31-03-2018,Zona Leste,Aricanduva/ Vila Formosa,Inativo Intransitável,AV. ARICANDUVA,2
+31-03-2018,Zona Sudeste,Ipiranga,Inativo Intransitável,AV. PROF ABRAAO DE MORAIS (CURSINO),4
+31-08-2016,Zona Sudeste,Vila Mariana,Inativo Transitável,AV VINTE E TRES DE MAIO,2
+31-12-2019,Zona Norte,Casa Verde,Inativo Transitável,MARGINAL TIETÊ (EXPRESSA),2

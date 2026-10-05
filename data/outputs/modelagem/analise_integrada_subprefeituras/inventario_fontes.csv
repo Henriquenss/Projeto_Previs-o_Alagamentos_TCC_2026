@@ -1,0 +1,12 @@
+﻿fonte,granularidade,periodo_ou_data,linhas,observacao
+CGE — registros originais,Evento / logradouro,01/01/2015 a 31/05/2026,12535,Somente registros; inclui linhas de calendário vazias e duplicatas preservadas.
+CGE — painel territorial,Subprefeitura × dia,01/01/2015 a 31/05/2026,133408,32 regiões; ausência de registro não prova ausência física de alagamento.
+CEMADEN — metadados,Estação / coordenadas,Rede disponível na extração,95,Observações individuais diárias NÃO foram anexadas.
+CEMADEN — consolidado,Município × dia,01/01/2015 a 31/05/2026,4169,95 estações inventariadas; IDW calculado para o centro do município.
+INMET — metadados,Estação / coordenadas,Rede disponível na extração,14,Sem série individual por estação entre os anexos.
+INMET — consolidado,Município × dia,01/01/2015 a 31/05/2026,4169,Ponderação municipal; 14 estações inventariadas.
+Open-Meteo — histórico,Ponto central × dia,01/01/2015 a 31/05/2026,4169,Reanálise/reconstrução; disponibilidade em tempo real não comprovada.
+Open-Meteo — Previous Runs,Ponto central × dia-alvo,01/01/2024 a 31/05/2026,882,"Arquivos para D-1/D-2/D-3, apenas a partir de 2024; checar emissão."
+GeoSampa — vegetação,Polígonos → subprefeitura,Voo 2017,32,"Percentual de área mapeada, NÃO de permeabilidade."
+GeoSampa — drenagem,Linhas → subprefeitura,Cadastro 2026-08-19 03:00:00+00:00,32,"Extensão/densidade cadastrada, NÃO capacidade hidráulica."
+GeoSampa — limites,Polígonos de subprefeituras,Cadastro baixado em 2026,32,32 limites atuais; não equivalem necessariamente às fronteiras históricas.

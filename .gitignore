@@ -1,0 +1,6 @@
+.venv-modelagem/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter-runtime/
+.mplconfig/

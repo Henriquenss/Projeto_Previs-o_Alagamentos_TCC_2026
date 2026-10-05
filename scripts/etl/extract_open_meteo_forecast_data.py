@@ -49,10 +49,10 @@ média/min/max para temperatura, máximo para vento), e calcula o erro de
 previsão por horizonte (D-N previsto vs valor de referência).
 """
 
-import requests
 import pandas as pd
 import numpy as np
 import time
+from pathlib import Path
 
 # ── Configurações ──────────────────────────────────────────────────────────
 
@@ -64,7 +64,9 @@ LAT, LON = -23.5505, -46.6333
 START_DATE = "2024-01-01"
 END_DATE   = "2026-05-31"
 
-OUTPUT_PATH = "open_meteo_previous_runs_sp.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_PATH = PROJECT_ROOT / "data/outputs/datasets/open_meteo_previous_runs_sp.csv"
+HOURLY_PATH = PROJECT_ROOT / "data/outputs/open_meteo_raw/previous_runs_hourly.csv"
 
 BASE_URL = "https://previous-runs-api.open-meteo.com/v1/forecast"
 
@@ -100,6 +102,7 @@ def test_connectivity() -> bool:
     Testa a API com uma janela pequena antes de baixar o período completo.
     Sempre rode isso primeiro — economiza tempo se algo estiver errado.
     """
+    import requests
     print("Testando conectividade e estrutura de resposta...")
     params = {
         "latitude": LAT,
@@ -139,6 +142,7 @@ def fetch_previous_runs_hourly(start: str, end: str,
     Faz por blocos de ~30 dias (dados horários geram muito mais pontos
     que diários, então o bloco é menor para evitar payloads excessivos).
     """
+    import requests
     hourly_param = build_hourly_param(vars_dict, lead_days)
     all_chunks = []
 
@@ -167,9 +171,7 @@ def fetch_previous_runs_hourly(start: str, end: str,
             data = resp.json()
 
             if "error" in data:
-                print(f"    [erro] {data.get('reason')}")
-                current = chunk_end + pd.Timedelta(days=1)
-                continue
+                raise RuntimeError(data.get('reason'))
 
             chunk_df = pd.DataFrame({"datetime": data["hourly"]["time"]})
             for var in vars_dict.keys():
@@ -183,7 +185,7 @@ def fetch_previous_runs_hourly(start: str, end: str,
             all_chunks.append(chunk_df)
 
         except Exception as e:
-            print(f"    [erro] {e}")
+            raise RuntimeError(f"Falha no bloco {current.date()} a {chunk_end.date()}") from e
 
         current = chunk_end + pd.Timedelta(days=1)
         time.sleep(0.5)
@@ -204,6 +206,8 @@ def aggregate_to_daily(df_hourly: pd.DataFrame,
     Precipitação usa soma; temperatura usa min/max/mean; vento usa max.
     """
     df_hourly = df_hourly.copy()
+    if df_hourly["datetime"].duplicated().any():
+        raise ValueError("Timestamps horários duplicados")
     df_hourly["date"] = df_hourly["datetime"].dt.date
 
     daily_frames = []
@@ -215,7 +219,10 @@ def aggregate_to_daily(df_hourly: pd.DataFrame,
             continue
 
         if agg_type == "sum":
-            agg = df_hourly.groupby("date")[cols_to_agg].sum().reset_index()
+            # Período configurado: 2024+, São Paulo sem mudança de horário.
+            # Exigir 24 horas distintas: dia parcial/ausente não é total diário.
+            grouped = df_hourly.groupby("date")[cols_to_agg]
+            agg = grouped.sum(min_count=24).reset_index()
         elif agg_type == "max":
             agg = df_hourly.groupby("date")[cols_to_agg].max().reset_index()
         elif agg_type == "minmax_mean":
@@ -266,6 +273,8 @@ def main():
         return
 
     print(f"\n  ✓ {len(df_hourly):,} leituras horárias obtidas.")
+    HOURLY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    df_hourly.to_csv(HOURLY_PATH, index=False)
 
     # 3. Agregar para diário
     print("\n[2/3] Agregando para nível diário...")
@@ -288,6 +297,7 @@ def main():
                 mae = df_daily[col].mean()
                 print(f"    D-{lead}: MAE = {mae:.2f} mm")
 
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     df_daily.to_csv(OUTPUT_PATH, index=False)
     print(f"\n✓ Salvo em '{OUTPUT_PATH}'")
     print(f"  Shape: {df_daily.shape}")

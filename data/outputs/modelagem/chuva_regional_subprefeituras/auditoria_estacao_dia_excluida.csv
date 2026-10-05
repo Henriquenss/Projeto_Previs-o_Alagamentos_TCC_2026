@@ -1,0 +1,3 @@
+﻿cod_estacao,date,precip_total_mm,precip_max_hor_mm,n_leituras,nome_estacao,lat,lon,motivo,_merge
+355030819A,2021-01-20,12335.560000000001,12334.77,3,Boa Esperança,-23.603,-46.449,Boa Esperança: leitura 12334.77 mm rejeitada após revisão; excluir estação-dia para não usar total parcial,both
+355030819A,2021-03-04,111172.18,111172.18,1,Boa Esperança,-23.603,-46.449,Boa Esperança: leitura 111172.18 mm rejeitada após revisão; excluir estação-dia para não usar total parcial,both
